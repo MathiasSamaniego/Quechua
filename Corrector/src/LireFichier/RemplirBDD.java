@@ -26,7 +26,27 @@ public class RemplirBDD {
 		list.add("d");
 		list.add("e");
 		list.add("f");
-		list.add("hS");
+		list.add("h");
+		list.add("i");
+		list.add("j");
+		list.add("k");
+		list.add("l");
+		list.add("m");
+		list.add("n");
+		list.add("o");
+		list.add("p");
+		list.add("q");
+		list.add("r");
+		list.add("s");
+		list.add("t");
+		list.add("u");
+		list.add("v");
+		list.add("w");
+		list.add("y");
+		list.add("ñ");
+
+
+
 
 
 		int nombredelignesTotales = 0;
@@ -51,7 +71,7 @@ public class RemplirBDD {
 	            		j = i;
 	            	}
 	            	j++;
-		            if(ligne.charAt(j) == 'h') {
+		            if(ligne.charAt(j) == 'ñ') {
 	            		nombredelignes++;
 	            		while(ligne.charAt(j) != '"') {
 		            		if(ligne.charAt(j) == '(') break;
@@ -73,7 +93,7 @@ public class RemplirBDD {
 		            		k++;
 		            	}
 	            		System.out.println(chaine + "        " + type);
-	            		Class.forName("org.sqlite.JDBC"); // loaded the driver (use properties)
+	            	/*	Class.forName("org.sqlite.JDBC"); // loaded the driver (use properties)
 	            		String url = "jdbc:sqlite:C:\\Users\\alain\\OneDrive\\Documents/CorrectorQuechua.db";
 	            		//String url = "jdbc:sqlite://127.0.0.1:5432/DataBaseQuechua.db";
 	            		Connection c = null;
@@ -93,7 +113,7 @@ public class RemplirBDD {
 	    					} else {
 	    						s.executeUpdate("INSERT INTO h (mot, type) VALUES('" + chaine + "','" + type + "');");
 	    					}
-	    				}
+	    				}*/
 		            }
 	            }
 	         }

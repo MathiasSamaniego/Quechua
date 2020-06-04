@@ -750,9 +750,9 @@ importance,A+mc+UNAMB+QU="ancha-yuyai"
 beaucoup,A+QU="ancha"
 arrogant,A+mc+UNAMB+QU="anchaykuq-kaq"
 vantard,A+mc+UNAMB+QU="anchaykuq-kaq"
-anchikui,A+QU="opulence"
-anchiysapa,A+QU="affligé"
-anchiysapa,A+QU="déprimé"
+opulence,A+QU="anchikui"
+affligé,A+QU="anchiysapa"
+déprimé,A+QU="anchiysapa"
 ancien,A+m+QU="ñaupa"
 ancien,ADV+m+QU="ñaupa"
 ancienne,ADV+f+QU="ñaupa"
@@ -810,8 +810,8 @@ arrogant,A+m+QU="hatunsunju"
 arrogant,N+QU="hatun sunju"
 arrogante,A+f+QU="hatunsunju"
 arrondi,N+QU="muyui"
-asia,A+QU="courageux"
-asia,A+QU="vaillant"
+courageux,A+QU="asia"
+vaillant,A+QU="asia"
 aspect,N+QU="rikchay"
 assaisonnement,N+QU="miskipa"
 assiette en argile,N+mc+UNAMB+QU="puku"
@@ -1224,8 +1224,8 @@ chapeau,N+QU="ruju"
 chapiteau,N+QU="karpa"
 chaque,A+QU="sapa"
 chaque,N+QU="sapa"
-chaqwa,A+QU="tapage"
-chaqwa,A+QU="vacarme"
+tapage,A+QU="chaqwa"
+vacarme,A+QU="chaqwa"
 charango,N+QU="charangu"
 charbon,N+QU="killimsa"
 chardonneret,N+QU="chayña"
@@ -1480,7 +1480,7 @@ compassion,N+QU="llakipayay"
 compatir,N+QU="kuyapayakui"
 compatriote,A+QU="llajta masi"
 compatriote,A+SENSE=de la même région+QU="llajtamasi"
-compatriote,A+SENSE=du même groupe social_ de la même communauté+QU="du même lignage)"
+#compatriote,A+SENSE=du même groupe social_ de la même communauté+QU="du même lignage)"
 compatriote,A+SENSE=du même groupe social+QU="ayllumasi"
 compatriote,A+SENSE=du même lignage+QU="ayllumasi"
 compatriote,A+SENSE=du même villageQU="llajtamasi"
@@ -3737,9 +3737,9 @@ manteau,N+QU="machai"
 mantille,N+QU="chuku"
 mantille,N+QU="lliklla"
 mantille,N+QU="pullu"
-manu,A+QU="dette"
-maqlla,A+QU="misérable"
-maqlla,A+QU="radin"
+dette,A+QU="manu"
+misérable,A+QU="maqlla"
+radin,A+QU="maqlla"
 maquereau,A+QU="kachapurij"
 marchandise,N+QU="ranti"
 marché,N+QU="jatu plasa"
@@ -3767,12 +3767,12 @@ mase,N+QU="majana"
 masse,N+QU="majana"
 matin,N+QU="tutamanta"
 maturation,N+QU="pujuy"
-mauka,A+QU="ancien"
-mauka,A+QU="usé"
-mauka,A+QU="vieux"
+ancien,A+QU="mauka"
+usé,A+QU="mauka"
+vieux,A+QU="mauka"
 incapable,A+QU="maula"
-maula,A+QU="maladroit"
-maula,A+QU="personne nul"
+maladroit,A+QU="maula"
+personne nul,A+QU="maula"
 mauvais augure,A+mc+UNAMB+QU="ati"
 mauvais augure,N+mc+UNAMB+QU="ati"
 mauvais présage,A+LOC+mc+UNAMB+QU="ati"
@@ -4316,7 +4316,7 @@ passager,A+QU="jurpay"
 passager,N+QU="jorpa"
 passager,N+QU="jurpaj"
 passé,A+QU="ñaupa"
-patachasqa,A+QU="ordonné"
+ordonné,A+QU="patachasqa"
 patate douce,N+mc+UNAMB+QU="apichu"
 pâteux,A+QU="lausa"
 patio,N+QU="kancha"
@@ -4783,10 +4783,10 @@ purée de courge,N+mc+UNAMB+QU="lukru"
 purgatoire,N+QU="uku pacha"
 purulent,A+m+QU="llijti"
 purulente,A+f+QU="llijti"
-purun sunqu,A+mc+UNAMB+QU="indomptable"
-purun sunqu,A+mc+UNAMB+QU="indompté"
-purun,A+QU="dépeuplé"
-purun,A+QU="inhabité"
+indomptable,A+mc+UNAMB+QU="purun sunqu"
+indompté,A+mc+UNAMB+QU="purun sunqu"
+dépeuplé,A+QU="purun"
+inhabité,A+QU="purun"
 pus,N+QU="jea"
 pus,N+QU="jia"
 pus,N+QU="jiya"
@@ -4883,10 +4883,10 @@ rassasié,A+m+QU="saksa"
 rassasiée,A+f+QU="saksa"
 rassemblement,N+QU="huñu"
 rassemblement,N+QU="juchu"
-ratapa,A+QU="déguenillé"
+déguenillé,A+QU="ratapa"
 rate,N+QU="jaya"
 rate,N+QU="jayan"
-rauka,A+QU="nez courbé"
+nez courbé,A+QU="rauka"
 rauque,A+QU="sajra"
 rauque,A+QU="tunjuchu"
 rauque,N+NA+QU="tonjocho"
@@ -5186,10 +5186,10 @@ sarigue,N+QU="jarachupa"
 sarigue,N+QU="unkaka"
 sasa atipaq,A+mc+UNAMB+QU="miraculeux"
 sasa atipaq,A+mc+UNAMB+QU="prodigieux"
-sasa,A+QU="difficile"
-sasi,A+QU="jeûne"
-sasii,A+QU="abstinence"
-sasiy,A+QU="abstinence"
+difficile,A+QU="sasa"
+jeûne,A+QU="sasi"
+abstinence,A+QU="sasii"
+abstinence,A+QU="sasiy"
 satisfaisant,N+QU="allin"
 satisfait,A+QU="saksasja"
 sauf,CONJ+QU="mana chayja"
@@ -6334,10 +6334,10 @@ cher,N+mc+UNAMB+QU="sinchi jullji"
 cheveu blanc,N+mc+UNAMB+QU="suju"
 chiffre,N+QU="yupay"
 géant,A+QU="chikachachaq"
-chillu,A+QU="noir"
-chillu,A+QU="nuir"
-chilqi,A+QU="odieux"
-froidA+QU="chiri"
+noir,A+QU="chillu"
+nuir,A+QU="chillu"
+odieux,A+QU="chilqi"
+froid,A+QU="chiri"
 choisi,ADV+QU="akllasjallaña"
 chute d'eau,N+mc+UNAMB+QU="pajcha"
 chute,N+QU="urmay"
@@ -7877,7 +7877,7 @@ certaine,A+SENS=sûr+QU="chijampay"
 certaine,A+SENS=sûr+QU="chijap"
 certaine,A+SENS=sûr+QU="chijay"
 châtain-clair,A+mc+UNAMB+QU="jarwa"
-compatriote,A+SENS=de la même communauté+QU="du même lignage"
+#compatriote,A+SENS=de la même communauté+QU="du même lignage"
 compatriote,A+SENS=de la même région+QU="llajtamasi"
 compatriote,A+SENS=du même groupe social+QU="llajta-masi"
 compatriote,A+SENS=du même lignage+QU="llajta-masi"
@@ -9661,9 +9661,9 @@ chercher,V+Vf+QU="maskaykuy"+SENS=rechercher+DOM=SOC+FLX=AIMER
 chercher,V+Vf+QU="maskaykuy"+SENS=se creuser pour trouver+DOM=PSY+FLX=AIMER
 chercher,V+Vf+QU="rijsiykuy"+SENS=chercher en détail+DOM=AAA+FLX=AIMER
 chercher,V+Vf+QU="watukuy"+SENS=demander_ réclamer juelju'un+DOM=PSY+FLX=AIMER
-chevaucher,V+Vf+QU="sillakuy+E+SENS=être cavalier+DOM=EQU+FLX=AIMER
+chevaucher,V+Vf+QU="sillakuy"+E+SENS=être cavalier+DOM=EQU+FLX=AIMER
 chevaucher,V+Vf+QU="sillakuy"+SENS=être cavalier+DOM=EQU+FLX=AIMER
-chevaucher,V+Vf+QU="sillay+E+SENS=monter un cheval+DOM=EQU+FLX=AIMER
+chevaucher,V+Vf+QU="sillay"+E+SENS=monter un cheval+DOM=EQU+FLX=AIMER
 chevaucher,V+Vf+QU="sillay"+SENS=monter un cheval+DOM=EQU+FLX=AIMER
 chiner,V+Vf+QU="pinjariy"+SENS=critijuer_ tajuiner+DOM=LITf+FLX=AIMER
 chiquenauder,V+Vf+QU="tinkay"+SENS=donner chijuenaude+DOM=SOMf+FLX=AIMER
@@ -10942,7 +10942,7 @@ divorcer,V+Vf+QU="rakinakuy"+SENS=BBB+DOM=AAA+FLX=PLACER
 divorcer,V+Vf+QU="rakinakuy"+SENS=rompre+DOM=PAR+FLX=PLACER
 divulguer,V+Vf+QU="willaykapuy"+SENS=dévoiler_ révéler+DOM=SOC+FLX=AIMER
 dogmatiser,V+Vf+QU="iéniparjachiy"+SENS=pédantiser+DOM=PHIt+FLX=AIMER
-doguer,V+Vf+QU="tupay+E+SENS=frapper avec tête+DOM=ZOO+FLX=AIMER
+doguer,V+Vf+QU="tupay"+E+SENS=frapper avec tête+DOM=ZOO+FLX=AIMER
 doguer,V+Vf+QU="tupay"+SENS=frapper avec tête+DOM=ZOO+FLX=AIMER
 doigter,V+Vf+QU="tupjiririy"+SENS=montrer de doigt+DOM=MUS+FLX=AIMER
 doler,V+Vf+QU="llaspachiy"+SENS=amincir+DOM=PEA+FLX=AIMER
@@ -11253,7 +11253,7 @@ ecchymoser,V+Vf+QU="chukriy"+SENS=causer un hématome+DOM=PAT+FLX=AIMER
 éclater,V+Vf+QU="wajakapuy"+SENS=éclater en sanglots subitement+DOM=AAA+FLX=AIMER
 éclater,V+Vf+QU="wakriy"+SENS=faire des +DOM=AAA+FLX=AIMER
 éclipser,V+Vf+QU="lluptichiy"+SENS=faire s'éclipser_ faire passer+DOM=AAA+FLX=AIMER
-éclipser,V+Vf+QU="paka+SENS=cacher+DOM=AST+FLX=AIMER
+éclipser,V+Vf+QU="paka"+SENS=cacher+DOM=AST+FLX=AIMER
 éclipser,V+Vf+QU="pakaykuy"+SENS=surpasser+DOM=SOC+FLX=AIMER
 éclisser,V+Vf+QU="takyapay"+SENS=immobiliser par éclisses+DOM=RAI+FLX=AIMER
 éclore,V+Vf+QU="pajaririy"+SENS=surgir_ naître+DOM=LOCt+FLX=CLORE
@@ -11464,7 +11464,7 @@ egorger,V+Vf+QU="sipiy"+SENS=BBB+DOM=AAA+FLX=MANGER
 éjecter,V+Vf+QU="wischuy"+SENS=BBB+DOM=AAA+FLX=AIMER
 éjointer,V+Vf+QU="rapra rutuy"+SENS=rogner les ailes+DOM=ZOO+FLX=AIMER
 élaborer,V+Vf+QU="allwiy"+SENS=urdir elaborer instiguer+DOM=AAA+FLX=AIMER
-élaborer,V+Vf+QU="rurarinchik+SENS=créer+DOM=LIT+FLX=AIMER
+élaborer,V+Vf+QU="rurarinchik"+SENS=créer+DOM=LIT+FLX=AIMER
 élaborer,V+Vf+QU="ruray"+SENS=assimiler+DOM=BIO+FLX=AIMER
 élaguer,V+Vf+QU="kallmay"+SENS=retrancher branches+DOM=SYL+FLX=AIMER
 élancer,V+Vf+QU="nanay"+SENS=causer vive douleur+DOM=PAT+FLX=PLACER
@@ -11677,7 +11677,7 @@ embusquer,V+Vf+QU="urmachiy"+SENS=BBB+DOM=AAA+FLX=AIMER
 émietter,V+Vf+QU="ñutuy"+SENS=BBB+DOM=AAA+FLX=AIMER
 émietter,V+Vf+QU="ñutuy"+SENS=réduire en miettes+DOM=CUI+FLX=AIMER
 émigrer,V+Vf+QU="mitmakapuy"+SENS=s'expatrier+DOM=LOC+FLX=AIMER
-émigrer,V+Vf+QU="mitmakur+SENS=migrer+DOM=SOC+FLX=AIMER
+émigrer,V+Vf+QU="mitmakur"+SENS=migrer+DOM=SOC+FLX=AIMER
 émigrer,V+Vf+QU="mitmariy"+SENS=sortir de_ s'expatrier+DOM=ECN+FLX=AIMER
 émincer,V+Vf+QU="llaspata kuchuy"+SENS=couper+DOM=CUI+FLX=PLACER
 emmagasiner,V+Vf+QU="allchakuy"+SENS=stocker dans esprit+DOM=PSY+FLX=AIMER
@@ -11704,7 +11704,7 @@ emmener,V+Vf+QU="apay"+SENS=conduire+DOM=VEH+FLX=PESER
 emmener,V+Vf+QU="chayachiy"+SENS=BBB+DOM=AAA+FLX=PESER
 emmener,V+Vf+QU="chayachiy"+SENS=mener+DOM=LOC+FLX=PESER
 emmener,V+Vf+QU="michiykamuy"+SENS=emmener le bétail au pâturage+DOM=AAA+FLX=PESER
-emmener,V+Vf+QU="pusapun+SENS=tenir la tête de+DOM=SPO+FLX=PESER
+emmener,V+Vf+QU="pusapun"+SENS=tenir la tête de+DOM=SPO+FLX=PESER
 emmener,V+Vf+QU="pusariy"+SENS=animer+DOM=MIL+FLX=PESER
 emmener,V+Vf+QU="pusay"+SENS=BBB+DOM=AAA+FLX=PESER
 emmenotter,V+Vf+QU="chipay"+SENS=enchaîner+DOM=DRO+FLX=AIMER
@@ -13438,7 +13438,7 @@ nager,V+Vf+QU="waytay"+SENS=gagner à la nage+DOM=LOC+FLX=MANGER
 naître,V+Vf+QU="llujsimuy"+SENS=être issu de+DOM=PAR+FLX=NAITRE
 naître,V+Vf+QU="pajarimuy"+SENS=venir au monde tel+DOM=SOM+FLX=NAITRE
 naître,V+Vf+QU="pajariy"+SENS=venir au monde+DOM=BIO+FLX=NAITRE
-napaikapuy,V+Vf+QU="rikurikurjun+SENS=se rencontrer+DOM=TPS+FLX=CUIRE
+napaikapuy,V+Vf+QU="rikurikurjun"+SENS=se rencontrer+DOM=TPS+FLX=CUIRE
 naturaliser,V+Vf+QU="llajtachakuy"+SENS=faire devenir natif+DOM=DRO+FLX=AIMER
 naviguer,V+Vf+QU="wampuy"+SENS=BBB+DOM=AAA+FLX=AIMER
 ne pas compter,V+Vf+mc+UNAMB+QU="mana-yupay"+SENS=passer sous silence+DOM=PSY+FLX=AIMER
@@ -13682,12 +13682,12 @@ peler,V+Vf+tr+QU="tipjay"+SENS=une peau épaisse+DOM=AAA+FLX=PESER
 pencher,V+Vf+QU="kumuy"+SENS=incliner+DOM=LOC+FLX=AIMER
 pencher,V+Vf+QU="wajlliy"+SENS=BBB+DOM=AAA+FLX=AIMER
 pencher,V+Vf+QU="wanliy"+SENS=pour un chargement+DOM=AAA+FLX=AIMER
-pencher,V+Vf+QU="wiksuy+itr+SENS=s'incliner vers+DOM=LOC+FLX=AIMER
+pencher,V+Vf+QU="wiksuy"+itr+SENS=s'incliner vers+DOM=LOC+FLX=AIMER
 pencher,V+Vf+QU="wiksuy"+SENS=s'incliner vers+DOM=LOC+FLX=AIMER
 pendre,V+Vf+QU="sijuy"+SENS=exécuter+DOM=DRO+FLX=RENDRE
 pendre,V+Vf+QU="warkuchiy"+SENS=pendre_ faire pendre+DOM=AAA+FLX=RENDRE
 pendre,V+Vf+QU="warkukuy"+SENS=retomber+DOM=COS+FLX=RENDRE
-pendre,V+Vf+QU="warkurayay+itr+SENS=être suspendu+DOM=OBJ+FLX=RENDRE
+pendre,V+Vf+QU="warkurayay"+itr+SENS=être suspendu+DOM=OBJ+FLX=RENDRE
 pendre,V+Vf+QU="warkurayay"+SENS=être suspendu+DOM=OBJ+FLX=RENDRE
 pendre,V+Vf+QU="warkurayay"+SENS=pendre là tranjuillement+DOM=AAA+FLX=RENDRE
 pendre,V+Vf+QU="warkuriy"+SENS=tomber+DOM=COS+FLX=RENDRE
@@ -13724,7 +13724,7 @@ persécuter,V+Vf+QU="jatirjachikuy"+SENS=ordonner persécution immédiate+DOM=AAA+F
 persuader,V+Vf+QU="siminchay"+SENS=convaincre de réalité+DOM=PSY+FLX=AIMER
 peser,V+Vf+QU="jutupayay"+SENS=suivre constamment tout le temps (être pesant pour juelju'un)+DOM=AAA+FLX=PESER
 peser,V+Vf+QU="llasarayay"+SENS=peser lourd+DOM=AAA+FLX=PESER
-peser,V+Vf+QU="llasay+itr+SENS=avoir tel poids+DOM=MES+FLX=PESER
+peser,V+Vf+QU="llasay"+itr+SENS=avoir tel poids+DOM=MES+FLX=PESER
 peser,V+Vf+QU="llasay"+SENS=avoir tel poids+DOM=MES+FLX=PESER
 péter,V+Vf+QU="supiy"+SENS=prouter+DOM=SOM+FLX=CEDER
 péter,V+Vf+QU="tujyarjuy"+SENS=clajuer+DOM=OBJf+FLX=CEDER
@@ -15785,7 +15785,7 @@ s'ensevelir,V+Vf+mc+UNAMB+QU="pampakapuy"+SENS=s'enfermer dans+DOM=PSYt+FLX=FINI
 s'entêter,V+Vf+mc+UNAMB+QU="atipakuy"+SENS=BBB+DOM=AAA+FLX=AIMER
 s'entêter,V+Vf+mc+UNAMB+QU="umanchakuy"+SENS=s'obstiner_ persister à+DOM=PSY+FLX=AIMER
 sentir chaleur,V+Vf+mc+UNAMB+QU="achachakuy"+SENS=BBB+DOM=AAA+FLX=SENTIR
-sentir chaleur,V+Vf+mc+UNAMB+QU="rupapaku+SENS=BBB+DOM=AAA+FLX=SENTIR
+sentir chaleur,V+Vf+mc+UNAMB+QU="rupapaku"+SENS=BBB+DOM=AAA+FLX=SENTIR
 sentir,V+Vf+QU="asnay"+SENS=odorer+DOM=SOM+FLX=SENTIR
 sentir,V+Vf+QU="japay"+SENS=BBB+DOM=AAA+FLX=SENTIR
 sentir,V+Vf+QU="kuyakuy"+SENS=sentir des chatouillements+DOM=AAA+FLX=SENTIR
@@ -16131,9 +16131,9 @@ suivre,V+Vf+QU="jatiykuy"+SENS=venir derrière+DOM=LOC+FLX=AIMER
 suivre,V+Vf+QU="yupichay"+SENS=suivre les traces+DOM=AAA+FLX=AIMER
 suivre,V+Vf+QU="yupipay"+SENS=suivre à la trace+DOM=AAA+FLX=AIMER
 s'unir,V+Vf+mc+UNAMB+QU="huñukamuy"+SENS=s'associer+DOM=SOC+FLX=FINIR
-s'unir,V+Vf+mc+UNAMB+QU="tinkinaku+SENS=s'accoupler+DOM=SOM+FLX=FINIR
+s'unir,V+Vf+mc+UNAMB+QU="tinkinaku"+SENS=s'accoupler+DOM=SOM+FLX=FINIR
 s'unir,V+Vf+QU="huñukamuy"+SENS=s'associer+DOM=SOC+FLX=FINIR
-s'unir,V+Vf+QU="tinkinaku+SENS=s'accoupler+DOM=SOM+FLX=FINIR
+s'unir,V+Vf+QU="tinkinaku"+SENS=s'accoupler+DOM=SOM+FLX=FINIR
 supporter,V+Vf+QU="sayachinakuy"+SENS=appuyer moralement+DOM=SPO+FLX=AIMER
 supporter,V+Vf+QU="takyachiy"+SENS=porter+DOM=BAT+FLX=AIMER
 supporter,V+Vf+QU="takyapakuy"+SENS=tenir+DOM=MTO+FLX=AIMER
@@ -16691,7 +16691,7 @@ vénérer,V+Vf+QU="yupaychay"+SENS=BBB+DOM=AAA+FLX=CEDER
 venir à l'esprit,V+Vf+mc+UNAMB+QU="chayaykamuy"+SENS=venir à l'esprit+DOM=AAA+FLX=TENIR
 venir de partout,V+Vf+mc+UNAMB+QU="hamurjariy"+SENS=venir de partout+DOM=AAA+FLX=TENIR
 venir en courant pour voir,V+Vf+mc+UNAMB+QU="rikurjamuy"+SENS=venir en courant pour voir+DOM=AAA+FLX=TENIR
-venir en courant,V+Vf+mc+UNAMB+QU="pawarjamuyª+SENS=venir en courant prestement+DOM=AAA+FLX=TENIR
+venir en courant,V+Vf+mc+UNAMB+QU="pawarjamuy"+SENS=venir en courant prestement+DOM=AAA+FLX=TENIR
 venir en fuyant jusqu'ici,V+Vf+mc+UNAMB+QU="ayjirjamuy"+SENS=venir en fuyant soudain jusju'ici+DOM=AAA+FLX=TENIR
 venir ensemble,V+Vf+mc+UNAMB+QU="huñukamuy"+SENS=venir ensemble+DOM=AAA+FLX=TENIR
 venir fréquemment,V+Vf+mc+UNAMB+QU="kutipayay"+SENS=venir fréjuemment+DOM=AAA+FLX=TENIR
@@ -16719,7 +16719,7 @@ venir pour se plaindre,V+Vf+mc+UNAMB+QU="chatakamuy"+SENS=venir pour se plaindre
 venir pour se reposer,V+Vf+mc+UNAMB+QU="jaynakamuy"+SENS=venir pour se reposer_ pour se distraire+DOM=AAA+FLX=TENIR
 venir pour se soigner,V+Vf+mc+UNAMB+QU="hampikamuy"+SENS=venir pour se soigner+DOM=AAA+FLX=TENIR
 venir pour s'installer,V+Vf+mc+UNAMB+QU="tiyakamuy"+SENS=venir pour s'installer+DOM=AAA+FLX=TENIR
-venir prestement,V+Vf+mc+UNAMB+QU="pawarjamuyª+SENS=venir en courant prestement+DOM=AAA+FLX=TENIR
+venir prestement,V+Vf+mc+UNAMB+QU="pawarjamuy"+SENS=venir en courant prestement+DOM=AAA+FLX=TENIR
 venir soudainement,V+Vf+mc+UNAMB+QU="hamurjuy"+SENS=venir soudainement+DOM=AAA+FLX=TENIR
 venir souvent,V+Vf+mc+UNAMB+QU="hamupayay"+SENS=venir souvent+DOM=AAA+FLX=TENIR
 venir souvent,V+Vf+mc+UNAMB+QU="kutirjariy"+SENS=venir souvent+DOM=AAA+FLX=TENIR
@@ -18262,7 +18262,7 @@ compatir,V+QU="llakiy"
 compatirà,V+QU="llakipakuy"
 compatriote(de la même région),A+QU="llaqtamasi"
 compatriote(du même groupe social,A+QU="ayllumasi"
-compatriote(du même groupe social_ de la même communauté),A+QU="du même lignage)"
+#compatriote(du même groupe social_ de la même communauté),A+QU="du même lignage)"
 compatriote(du même lignage),A+QU="ayllumasi"
 compatriote(du même village),A+QU="llaqtamasi"
 compatriote(du même village,A+QU="llaqtamasi"
@@ -19154,7 +19154,7 @@ emprunter(de l'argent du grain),V+QU="manukuy"
 emprunter(un objer),V+QU="mañakuy"
 emprunter,V+QU="manukuy"
 émuler,V+QU="aswanchay"
-en cachette,ADV+LOC+QU="pakapi
+en cachette,ADV+LOC+QU="pakapi"
 en colère,A+QU="piña"
 en colère,A+QU="piñasqa"
 en face,N+QU="chimpa"
@@ -20580,7 +20580,7 @@ lesquels,PRO+QU="mayqan"
 l'essence,N+QU="kai"
 l'être,N+QU="kai"
 lever du jour,ADV+LOC+mc+UNAMB+QU="pachapaqari"
-lever du jour,ADV+LOC+mc+UNAMB+QU="paqariy
+lever du jour,ADV+LOC+mc+UNAMB+QU="paqariy"
 lever du jour,V+mc+UNAMB+QU="pacha paqariy"
 lever,V+QU="qatariy"
 lever,V+QU="quqariy"
@@ -21101,7 +21101,7 @@ occuper(tout un espace),V+QU="kamay"
 océan,N+QU="mama qucha"
 océan,N+QU="qucha"
 odeur,N+QU="qapay"
-odieux,A+QU="chilqi"="
+odieux,A+QU="chilqi"
 œdème,N+QU="amoqllu"
 œdème,N+QU="amuqllu"
 offenser,V+QU="kamiy"
@@ -27100,7 +27100,7 @@ bouillonner 02(foisonner_ Les idées b~ chez P_ On b~ d'idées_ de proqets.),V+PSY
 bouillonner(bouillonner bruyamment),V+QU="pauchirjuy"
 bouillonner(bouillonner bruyamment),V+QU="pauchirquy"
 bouillonner,V+QU="pujpuy"
-boule(de pâte ou d'argile),N+QU="de pièces de tissu"
+#boule(de pâte ou d'argile),N+QU="de pièces de tissu"
 boule(de pâte_ d'argile_ de pièces de tissu),N+QU="muqu"
 boule,N+QU="muqu"
 bourdonner 01(bruire,L'abeille b~ dans le massif de fleurs.),V+ZOO+QU="wanway"
@@ -29152,7 +29152,7 @@ comparer 03(rapprocher quelque chose de_ On c~ la fraîcheur d'une jeune fille à 
 compatirà  ,V+QU="llakipakuy"
 compatriote(de la même région),N+NA+QU="llajtamasi"
 compatriote(de la même région),N+NA+QU="llaqtamasi"
-compatriote(du même groupe social ou de la même communauté,N+QU="du même lignage)"
+#compatriote(du même groupe social ou de la même communauté,N+QU="du même lignage)"
 compatriote(du même groupe social,N+NA+QU="ayllumasi"
 compatriote(du même groupe social_ de la même communauté_ du même lignage),A+QU="llaqta masi"
 compatriote(du même lignage),N+NA+QU="ayllumasi"
@@ -48211,8 +48211,8 @@ certaine,A+(sûr)+QU="chijampay"
 certaine,A+(sûr)+QU="chijay"
 charnu(e),A+QU="qiqi"
 châtain(clair),A+QU="qarwa"
-compatriote(du même groupe social,de la même communauté,A+QU="du même lignage"
-compatriote(du même groupe social_ de la même communauté),A+QU="du même lignage"
+#compatriote(du même groupe social,de la même communauté,A+QU="du même lignage"
+#compatriote(du même groupe social_ de la même communauté),A+QU="du même lignage"
 compatriote(du même groupe social_),A+QU="llaqta-masi"
 compatriote(du même lignage),A+QU="llaqta-masi"
 compatriote(du même village),A+QU="llajtamasi"
