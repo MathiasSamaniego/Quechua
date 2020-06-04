@@ -19,6 +19,8 @@ public class RemplirBDD {
 		int i = 0;
 		int j = 0;
 		int k = 0;
+		int nombredelignesTotales = 0;
+		int nombredelignes = 0;
 	      //lecture du fichier texte
 	      //try{
 	         InputStream ips = new FileInputStream("src/LireFichier/Dictionary  générale FR_QU pour Soni_syllabes.txt");
@@ -27,6 +29,7 @@ public class RemplirBDD {
 	         String ligne;
 	         while ((ligne = br.readLine()) != null){
 	            chaine = "";
+	            nombredelignesTotales++;
 	            
 	            if((ligne.charAt(0)) == '#') {
 	            } else { 
@@ -38,7 +41,8 @@ public class RemplirBDD {
 	            		j = i;
 	            	}
 	            	j++;
-		            if(ligne.charAt(j) == 'a') {
+		            if(ligne.charAt(j) == 'b') {
+	            		nombredelignes++;
 	            		while(ligne.charAt(j) != '"') {
 		            		if(ligne.charAt(j) == '(') break;
 	            			chaine = chaine + ligne.charAt(j);
@@ -59,8 +63,8 @@ public class RemplirBDD {
 		            		k++;
 		            	}
 	            		System.out.println(chaine + "        " + type);
-	            		/*Class.forName("org.sqlite.JDBC"); // loaded the driver (use properties)
-	            		String url = "jdbc:sqlite:C:\\Users\\mathi\\Documents\\StageQuechua/DataBaseQuechua.db";
+	            		Class.forName("org.sqlite.JDBC"); // loaded the driver (use properties)
+	            		String url = "jdbc:sqlite:C:\\Users\\alain\\OneDrive\\Documents/CorrectorQuechua.db";
 	            		//String url = "jdbc:sqlite://127.0.0.1:5432/DataBaseQuechua.db";
 	            		Connection c = null;
 	            		c = DriverManager.getConnection(url);
@@ -79,10 +83,12 @@ public class RemplirBDD {
 	    					} else {
 	    						s.executeUpdate("INSERT INTO A (mot, type) VALUES('" + chaine + "','" + type + "');");
 	    					}
-	    				}*/
+	    				}
 		            }
 	            }
 	         }
+	         System.out.println("Lignes totales : " + nombredelignesTotales);
+	         System.out.println("Lignes pour la lettre : " + nombredelignes);
 	         br.close();
 	      }    
 }
