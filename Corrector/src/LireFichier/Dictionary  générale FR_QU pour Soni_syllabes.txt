@@ -680,7 +680,7 @@ aile,N+QU="rapra"
 ailleurs,ADV+QU="huk nirajpi"
 ailleurs,ADV+QU="hukñijpi"
 ailleurs,N+QU="huk jawaj"
-aillu,A+QU="généalogie"
+généalogie,A+QU="aillu"
 bon payeur,A+mc+UNAMB+QU="ainiq sunqu"
 ainsi,ADV+QU="hina"
 ainsi,ADV+QU="hinaja"
@@ -3005,7 +3005,7 @@ hargneux(euse),N+QU="piña"
 haricot,N+QU="chuwi"
 haricot,N+QU="purutu"
 harpe,N+QU="arpa"
-hatun karay,A+QU="géant"
+géant,A+QU="hatun karay"
 hatun karay,A+QU="immense"
 haut plateau,N+mc+UNAMB+QU="pampa"
 haut,N+m+QU="hanaj"
@@ -6333,7 +6333,7 @@ chenue,N+f+QU="suju"
 cher,N+mc+UNAMB+QU="sinchi jullji"
 cheveu blanc,N+mc+UNAMB+QU="suju"
 chiffre,N+QU="yupay"
-chikachachaq,A+QU="géant"
+géant,A+QU="chikachachaq"
 chillu,A+QU="noir"
 chillu,A+QU="nuir"
 chilqi,A+QU="odieux"
@@ -13140,7 +13140,7 @@ livrer qqch,V+Vf+mc+UNAMB+QU="juykuy"+SENS=BBB+DOM=AAA+FLX=AIMER
 livrer,V+Vf+QU="jaraykuy"+SENS=livrer_ dénoncer+DOM=DROf+FLX=AIMER
 livrer,V+Vf+QU="juykuy"+SENS=abandonner au pouvoir de+DOM=DRO+FLX=AIMER
 loger,V+Vf+QU="hatalliy"+SENS=fournir un abri_ être dans+DOM=ZOO+FLX=MANGER
-loger,V+Vf+QU="hatalliy+tr+SENS=fournir un abri_ être dans+DOM=ZOO+FLX=MANGER
+loger,V+Vf+QU="hatalliy"+tr+SENS=fournir un abri_ être dans+DOM=ZOO+FLX=MANGER
 loger,V+Vf+QU="jurpachay"+SENS=abriter_ accueillir+DOM=LOC+FLX=MANGER
 loger,V+Vf+QU="samaykachiy"+SENS=BBB+DOM=AAA+FLX=AIMER
 loger,V+Vf+QU="yachakuy"+SENS=habiter_ demeurer+DOM=LOC+FLX=MANGER
@@ -13912,7 +13912,7 @@ prendre,V+Vf+QU="apatampuy"+SENS=prendre des choses d'autrui_ au passage+DOM=AAA
 prendre,V+Vf+QU="apaykutamuy"+SENS=prendre avec soi jueljue chose_ occasionnellement+DOM=AAA+FLX=PRENDRE
 prendre,V+Vf+QU="hapikuy"+SENS=prendre possession+DOM=AAA+FLX=PRENDRE
 prendre,V+Vf+QU="hapiy"+SENS=attraper_ saisir+DOM=OBJ+FLX=PRENDRE
-prendre,V+Vf+QU="hapiy+tr+SENS=attraper_ saisir+DOM=OBJ+FLX=PRENDRE
+prendre,V+Vf+QU="hapiy"+tr+SENS=attraper_ saisir+DOM=OBJ+FLX=PRENDRE
 prendre,V+Vf+QU="hapiykuy"+SENS=attraper_ capturer+DOM=CHS+FLX=PRENDRE
 prendre,V+Vf+QU="japirikuy"+SENS=BBB+DOM=AAA+FLX=PRENDRE
 prendre,V+Vf+QU="japiriy"+SENS=prendre par la main+DOM=AAA+FLX=PRENDRE
@@ -28533,7 +28533,7 @@ chuter 04(L'entreprise c~.),V+SOC+QU="tuñikuy"
 chuter 04(s'effondrer),V+SOC+QU="tuñikuy"
 chuter 04(s'effondrer. L'entreprise c~. L'élève c~ en classe.),V+SOC+QU="tuñikuy"
 chuter 04(s'effondrer. L'entreprise c~_ L'élève c~ en classe.),V+SOC+QU="tuñikuy"
-chykachachaq,A+QU="géant"
+géant,A+QU="chykachachaq"
 ciel(où se trouve Dieu),N+mc+UNAMB+QU="hanaj-pacha"
 ciel(où se trouve Dieu),N+QU="hanaj-pacha"
 circuler 01(cheminer ou L sang c~ dans les artères. L'eau c~ dans les tuyaux.),V+LOC+QU="muyuriy"
