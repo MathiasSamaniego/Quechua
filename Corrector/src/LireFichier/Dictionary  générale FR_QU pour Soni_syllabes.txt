@@ -13807,7 +13807,7 @@ pleuvoter,V+Vf+QU="ipuy"+SENS=BBB+DOM=AAA+FLX=AIMER
 pleuvoter,V+Vf+QU="parariy"+SENS=pleuvocher_ pleuvioter+DOM=MTOf+FLX=AIMER
 plier,V+Vf+QU="pataray"+SENS=rabattre+DOM=QUA+FLX=AIMER
 plonger,V+Vf+QU="challpuy"+SENS=immerger+DOM=LOC+FLX=MANGER
-plonger,V+Vf+QU="challpuy+tr+SENS=immerger+DOM=LOC+FLX=MANGER
+plonger,V+Vf+QU="challpuy"+tr+SENS=immerger+DOM=LOC+FLX=MANGER
 poignarder,V+Vf+QU="tuksirjuy"+SENS=suriner+DOM=PAT+FLX=AIMER
 poignarder,V+Vf+QU="tuksiy"+SENS=BBB+DOM=AAA+FLX=AIMER
 poindre,V+Vf+QU="illay"+SENS=le jour  l'aube etc.+DOM=AAA+FLX=PEINDRE
@@ -25534,10 +25534,10 @@ asperger 02(répandre sur_ On a~ les feuilles d'essence_ On a~ l'engrais sur la t
 asperger(s'asperger mutuellement avec de l'eau),V+QU="challanakuy"
 asperger,V+QU="chajchuy"
 asperger,V+QU="majchiy"
-asphalter(bitumer ou Ls ouvriers a~ le trottoir.),V+TRA+QU="briyay (E)"
-asphalter(bitumer. Les ouvriers a~ le trottoir.),V+TRA+QU="briyay (E)"
-asphalter(bitumer_ Les ouvriers a~ le trottoir.),V+TRA+E+QU="briyay "
-asphalter(bitumer_ Les ouvriers a~ le trottoir.),V+TRA+QU="briyay (E)"
+asphalter(bitumer ou Ls ouvriers a~ le trottoir.),V+TRA+QU="briyay" (E)
+asphalter(bitumer. Les ouvriers a~ le trottoir.),V+TRA+QU="briyay" (E)
+asphalter(bitumer_ Les ouvriers a~ le trottoir.),V+TRA+E+QU="briyay" 
+asphalter(bitumer_ Les ouvriers a~ le trottoir.),V+TRA+QU="briyay" (E)
 asphyxier 01(tuer par asphyxie ou On a~ P en l'étranglant. On s'est a~ au gaz ou est mort a~.),V+PAT+QU="mukirjuy"
 asphyxier 01(tuer par asphyxie. On a~ P en l'étranglant. On s'est a~ au gaz ou est mort a~.),V+PAT+QU="mukirquy"
 asphyxier 01(tuer par asphyxie_ On a~ P en l'étranglant. On s'est a~ au gaz est mort a~.),V+PAT+QU="mukirquy"
