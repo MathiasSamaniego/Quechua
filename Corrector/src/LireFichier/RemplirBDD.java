@@ -1,6 +1,5 @@
 package LireFichier;
 
-import java.sql.Statement;
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -9,8 +8,9 @@ import java.io.InputStreamReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
-import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
 
 public class RemplirBDD {
 	public static void main(String[] args) throws IOException, ClassNotFoundException, SQLException {
@@ -19,7 +19,14 @@ public class RemplirBDD {
 		int i = 0;
 		int j = 0;
 		int k = 0;
-		
+		ArrayList<String> list = new ArrayList<String>();
+		list.add("a");
+		list.add("b");
+		list.add("c");
+		list.add("d");
+		list.add("e");
+		list.add("f");
+
 		int nombredelignesTotales = 0;
 		int nombredelignes = 0;
 	      //lecture du fichier texte
@@ -42,7 +49,7 @@ public class RemplirBDD {
 	            		j = i;
 	            	}
 	            	j++;
-		            if(ligne.charAt(j) == 'e') {
+		            if(ligne.charAt(j) == 'f') {
 	            		nombredelignes++;
 	            		while(ligne.charAt(j) != '"') {
 		            		if(ligne.charAt(j) == '(') break;
