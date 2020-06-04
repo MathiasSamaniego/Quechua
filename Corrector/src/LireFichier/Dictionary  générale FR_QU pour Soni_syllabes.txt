@@ -1208,7 +1208,7 @@ chanceux,A+QU="atauniyuj"
 chandelle,N+QU="nina"
 change,N+QU="tikra"
 changeur,N+QU="tikraj"
-chanin patachi,A+QU="insatiable"
+insatiable,A+QU="chanin patachi"
 chanson danse,N+mc+UNAMB+QU="wayno"
 chanson danse,N+mc+UNAMB+QU="wayñu"
 chanson,N+NA+QU="jailli"
@@ -3770,7 +3770,7 @@ maturation,N+QU="pujuy"
 mauka,A+QU="ancien"
 mauka,A+QU="usé"
 mauka,A+QU="vieux"
-maula,A+QU="incapable"
+incapable,A+QU="maula"
 maula,A+QU="maladroit"
 maula,A+QU="personne nul"
 mauvais augure,A+mc+UNAMB+QU="ati"
@@ -11105,7 +11105,7 @@ dynamiter,V+Vf+QU="dinamitay"+SENS=faire sauter+DOM=ARM+FLX=AIMER
 ébouriffer,V+Vf+QU="tampay"+SENS=rebrousser+DOM=COS+FLX=AIMER
 ébourrer,V+Vf+QU="jachjapay"+SENS=ôter bourre de+DOM=PEA+FLX=AIMER
 ébouser,V+Vf+QU="sipiy"+SENS=tuer_ assassiner+DOM=PATp+FLX=AIMER
-ébousiner,V+Vf+QU="jachjapa*+SENS=ôter le bousin de+DOM=BAT+FLX=AIMER
+ébousiner,V+Vf+QU="jachjapa"+SENS=ôter le bousin de+DOM=BAT+FLX=AIMER
 ébouter,V+Vf+QU="kaptapay"+SENS=raccourcir+DOM=CUL+FLX=AIMER
 ébouturer,V+Vf+QU="kaptapay"+SENS=ôter les drageons de+DOM=HRT+FLX=AIMER
 ébrancher,V+Vf+QU="kallmay"+SENS=ôter les branches de+DOM=SYL+FLX=AIMER
@@ -13764,7 +13764,7 @@ placer,V+Vf+QU="churaykuy"+SENS=placer avec soin+DOM=AAA+FLX=PLACER
 placer,V+Vf+QU="rakiriy"+SENS=mettre jueljue chose de côté+DOM=AAA+FLX=PLACER
 plaindre,V+Vf+QU="ananawniy"+SENS=BBB+DOM=AAA+FLX=PEINDRE
 plaindre,V+Vf+QU="chatakuy"+SENS=regretter pour juelju'un+DOM=LIT+FLX=PEINDRE
-plaindre,V+Vf+QU="kihata churakuy+E+SENS=déposer une plainte+DOM=AAA+FLX=PEINDRE
+plaindre,V+Vf+QU="kihata churakuy"+E+SENS=déposer une plainte+DOM=AAA+FLX=PEINDRE
 plaindre,V+Vf+QU="kihata churakuy"+SENS=déposer une plainte+DOM=AAA+FLX=PEINDRE
 plaire,V+Vf+QU="yachanakuy"+SENS=se plaire mutuellement_ s'aimer bien l'un et l'autre+DOM=AAA+FLX=PLAIRE
 planifier,V+Vf+QU="tantakuy"+SENS=BBB+DOM=AAA+FLX=AIMER
@@ -15892,7 +15892,7 @@ signaliser un parcours,V+Vf+mc+UNAMB+QU="wachiy"+SENS=signaliser un parcours+DOM
 signaliser,V+Vf+QU="sayway"+SENS=munir de signalisation+DOM=VEH+FLX=AIMER
 signer,V+Vf+QU="jijaykuy"+SENS=avaliser+DOM=DRO+FLX=AIMER
 signer,V+Vf+QU="jilljaykachiy"+SENS=faire signer+DOM=AAA+FLX=AIMER
-signer,V+Vf+QU="kruschakuy+E+SENS=se signer pour les chrétiens+DOM=AAA+FLX=AIMER
+signer,V+Vf+QU="kruschakuy"+E+SENS=se signer pour les chrétiens+DOM=AAA+FLX=AIMER
 signer,V+Vf+QU="kruschakuy"+SENS=se signer pour les chrétiens+DOM=AAA+FLX=AIMER
 s'illustrer,V+Vf+mc+UNAMB+QU="rijsichikuy"+SENS=BBB+DOM=AAA+FLX=AIMER
 simuler,V+Vf+QU="nijtukuy"+SENS=feindre_ affecter+DOM=PSY+FLX=AIMER
@@ -17778,12 +17778,12 @@ alpaga,N+QU="paqo"
 âme,N+QU="sunqu"
 amer(ère),A+QU="qatqi"
 analphabète,NEO+QU="mana ñawiyuq"
-ancha yuyai,A+mc+UNAMB+QU="importance"
-ancha yuyay,A+mc+UNAMB+QU="importance"
-anchaikuq kaq,A+mc+UNAMB+QU="arrogant"
-anchaikuq kaq,A+mc+UNAMB+QU="vantard"
-anchaykuq kaq,A+mc+UNAMB+QU="arrogant"
-anchaykuq kaq,A+mc+UNAMB+QU="vantard"
+importance,A+mc+UNAMB+QU="ancha yuyai"
+importance,A+mc+UNAMB+QU="ancha yuyay"
+arrogant,A+mc+UNAMB+QU="anchaikuq kaq"
+vantard,A+mc+UNAMB+QU="anchaikuq kaq"
+arrogant,A+mc+UNAMB+QU="anchaykuq kaq"
+vantard,A+mc+UNAMB+QU="anchaykuq kaq"
 animateur,N+NA+QU="qailliq"
 année antérieur,N+mc+UNAMB+QU="qayna-wata"
 antérieur,N+m+QU="qayna"
@@ -22468,7 +22468,7 @@ silo,N+QU="taqi"
 similaire à PRO,ADV+QU="niraq"
 similaire,A+QU="quknin"
 simuler,V+QU="niqtukuy"
-singe,N+QU="kusillu "
+singe,N+QU="kusillu"
 singer,V+QU="yachapayay"
 sinistre,A+QU="aquiraki"
 sinon,ADV+QU="mana chayqa"
@@ -27386,7 +27386,7 @@ brûler(brûler poils ou cheveux,On b~ les cheveux),V+QU="jaspay"
 brûler(brûler poils ou cheveux. On b~ les cheveux),V+QU="qaspay"
 brûler(brûler poils_ cheveux_ On b~ les cheveux),V+QU="qaspay"
 brüler(des parfums pour soigner),V+QU="jumpuy"
-brüler(une offrande),V+QU="j'uymiy"
+#brüler(une offrande),V+QU="j'uymiy"
 brûler,V+QU="jaspay"
 brûlures (avoir  des ~)(brûlures (avoir  des ~),V+QU="llilliy"
 brûlures (avoir des ~)(brûlures (avoir des ~),V+QU="llilliy"
@@ -48171,12 +48171,12 @@ allongé,A+(le longueur)+QU="suni "
 allongé,A+(un objet de forme tubulaire)+m+QU="suni"
 allongé,A+(un objet pointu)+QU="suytu"
 allongée,A+(un objet de forme tubulaire)+f+QU="suni"
-ancha yuyai,A+QU="importance"
-ancha yuyay,A+QU="importance"
-anchaikuq kaq,A+QU="arrogant"
-anchaikuq kaq,A+QU="vantard"
-anchaykuq kaq,A+QU="arrogant"
-anchaykuq kaq,A+QU="vantard"
+importance,A+QU="ancha yuyai"
+importance,A+QU="ancha yuyay"
+arrogant,A+QU="anchaikuq kaq"
+vantard,A+QU="anchaikuq kaq"
+arrogant,A+QU="anchaykuq kaq"
+vantard,A+QU="anchaykuq kaq"
 andin(e),A+QU="antimanta"
 aplati(e)(par pression),A+QU="ñitisqa"
 aplati,A+(après un coup)+m+QU="lasta"
