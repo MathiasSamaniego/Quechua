@@ -19,6 +19,7 @@ public class RemplirBDD {
 		int i = 0;
 		int j = 0;
 		int k = 0;
+		
 		int nombredelignesTotales = 0;
 		int nombredelignes = 0;
 	      //lecture du fichier texte
@@ -41,7 +42,7 @@ public class RemplirBDD {
 	            		j = i;
 	            	}
 	            	j++;
-		            if(ligne.charAt(j) == 'b') {
+		            if(ligne.charAt(j) == 'e') {
 	            		nombredelignes++;
 	            		while(ligne.charAt(j) != '"') {
 		            		if(ligne.charAt(j) == '(') break;
@@ -77,11 +78,11 @@ public class RemplirBDD {
 	    					}
 	    				}
 	    				if(b == false) {
-	    					System.out.println("INSERT INTO A (mot, type) VALUES('" + chaine + "','" + type + "');");
+	    					System.out.println("INSERT INTO e (mot, type) VALUES('" + chaine + "','" + type + "');");
 	    					if(type.equals("MWE")) {	
-	    						s.executeUpdate("INSERT INTO A (mot, type) VALUES('" + chaine + "','MC');");
+	    						s.executeUpdate("INSERT INTO e (mot, type) VALUES('" + chaine + "','MC');");
 	    					} else {
-	    						s.executeUpdate("INSERT INTO A (mot, type) VALUES('" + chaine + "','" + type + "');");
+	    						s.executeUpdate("INSERT INTO e (mot, type) VALUES('" + chaine + "','" + type + "');");
 	    					}
 	    				}
 		            }
