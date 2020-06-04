@@ -1,0 +1,112 @@
+# SUF_N . dictionnaire de suffixes NOMINAUX du QU Créé par M. Duran mars 2012
+ch/DPRO_N; # dubitatif et probable  wasi wasich, wasichá probablement la maison, pour les terminaisons en  voyelles 
+chá/DPRO_N; # dubitatif et probable  atoj atoqchá  probablement la maison, pour les terminaisons en  consonnes
+cha/DIM_N; # DIM diminutif wasicha  la petite maison
+chik/DEDUC_N; # DEDUC certitude avec résignation wasichik, wasichiki  il paraît que c’est la maison
+chiki/DEDUC_N; # DEDUC certitude avec résignation wasichik, wasichiki  il paraît que c’est la maison
+chu/NEG_N; # negation atojchu c'est ne pas le renard
+chu?/ITG; #ITG intérrogation	 atojchu ? est-ce le renard ?
+chusqina/DUB_N; # atojchusina il semble que, on a l'mpression que c'est le renard
+chusina/DUB_N; # atojchusina il semble que, on a l'mpression que c'est le renard
+chusjina/DUB_N; # atojchusina il semble que, on a l'mpression que c'est le renard
+chushina/DUB_N; # atojchusina il semble que, on a l'mpression que c'est le renard
+p/GEN_N;  #pour les verbes nominalisés se terminant en voyalle wasi => wasip de la maison ; wasi => wasipa de la maison 
+pa/GEN; #pour les verbes nominalisés se terminant en consonne atoq => atoqpa  du renard
+kama/MET; #termintif (vers un but) pour les verbes nominalisés et pronoms ñoqa => ñoqakama   jusqu'à moi wasi => wasikama jusqu'à la maison
+kuna/PLU_N; # pluralisateur wasikuna les maisons
+lla/ISO_N; # isolation wasilla  seulement la maison
+má/CTR_N; # CTR contradicteur atojmá mais je conffirme que c'est le renard  karumá mais c'est loin (je le sais)
+man/DIR_N; # DIR3 directionnel3 allatif MAN pour noms où s'orienta l'action ñoqa => ñoqaman  vers moi  wasi => wasiman vers la maison
+manta/ORIG_N; # originaire « de » pour les verbes nominalisés wasi => wasimanta  de  la maison ; et ablatif « à propos de » pour les pronoms  ñoqa => ñoqamanta   à propos de moi
+masi/PAR_N; # pareil semblable runamasi homme semblable, atojmasi pareil au renard
+mi/ASS; #assertif pour les verbes nominalisés fin consonne ou ai ñan => ñanmi c'est le chemin atoj => atojmi c'est le renard
+m/ASS_N; # ASS assertif pour les verbes nominalisés fini en voyel wasi => wasim
+mpa/MAN; #MAN manière senjampa wichiikun  il est tombé nez à nez, rinrinmpa wichiykun il a tombé sur son oreille. S’applique seulement aux prts du corp.
+nimpa/MAN_N; # kuchusninpa coude à coude pour la terminaison en consonne
+ña/TRM_N; # TRM  terminé indicatif d'accompli wasiña c'est déjà la maison, pour le verbes l'accompli ripunña il est (déjà) parti
+naq/AUS_N;  # AUS absence de, manque de (N),   wasinaq sans maison sin casa ; kirunaq desdentado sans dents
+naj/AUS_N;  # AUS absence de, manque de (N),   wasinaq sans maison sin casa ; kirunaq desdentado sans dents
+nta/TRN; #translatif pour les verbes nominalisés se terminant en voyelle chakranta (atravers le) par le champ 
+ninta/TRN; #transltif pour les verbes nominalisés terminant en consonne ñan => ñanninta, par le chemin.  (cz) ñanñinta 
+ñinta/TRN; #transltif pour les verbes nominalisés terminant en consonne ñan => ñanninta, par le chemin.  (cz) ñanñinta 
+ntin/TOT_N; # TOT totalisateur allquntin y compris son chien, pour les verbes nominalisés se terminant en voyelle
+nintin/TOT_N; # TOT totalisateur atoqnintin y compris son renard pour les verbes nominalisés terminant en consonne
+niq/APX_N; # APX aproximatif wasineq au près de la maison
+ñiq/APX_N; # APX aproximatif wasineq au près de la maison
+ñeq/APX_N; # APX aproximatif wasineq au près de la maison
+ñij/APX_N; # APX aproximatif wasineq au près de la maison
+neq/APX_N; # APX aproximatif wasineq au près de la maison
+niraq/ASI_N; # wasinirajqui resemble à la maison
+niraj/ASI_N; # wasinirajqui resemble à la maison
+ñiraq/ASI_N; # wasinirajqui resemble à la maison
+nirai/ASI_N; # wasinirajqui resemble à la maison
+ñirai/ASI_N; # wasinirajqui resemble à la maison
+niyuq/PSS2_N;  # PSS2 posseseur de ce indiqué par le verbe nominalisé terminé consonne ou en ai machai  grotte => machainiyuq  celui qui possede une grotte
+niyuj/PSS2 _N;  # PSS2 posseseur de ce indiqué par le verbe nominalisé terminé consonne ou en ai machai  grotte => machainiyuq  celui qui possede une grotte
+niyoq/PSS2_N;  # PSS2 posseseur de ce indiqué par le verbe nominalisé terminé consonne ou en ai machai  grotte => machainiyuq  celui qui possede une grotte
+niyoj/PSS2_N;  # PSS2 posseseur de ce indiqué par le verbe nominalisé terminé consonne ou en ai machai  grotte => machainiyuq  celui qui possede une grotte
+paq/BEN_N; # « pour » « en benéfice de », pour les verbes nominalisés et pronoms ñoqa => ñoqapaq pour moi ;  wasi => wasipaq en benéfice de la maison
+paj/BEN_N; # « pour » « en benéfice de », pour les verbes nominalisés et pronoms ñoqa => ñoqapaq pour moi ;  wasi => wasipaq en benéfice de la maison
+pas/INC_N; # INC inclusif « aussi »   mikunpas il mange aussi ; ñan- => ñanpas la maison inclus
+puni/ABS_N;  # ABS l'absolut mikunkipuni tu mange absolument quoi qu'in en soit
+pi/LOC_N; # en dans, locatif ou possition PI pour les verbes nominalisés et pronoms ñoqa => ñoqapi  en moi wasi => wasipi dans la maison
+i/POSV_N +s+1 
+iki/POSV_N +s+2 
+n/POSV_N +s+3 
+nchik/POSV_N +PIN+1
+iku/POSV_N +PEX+1
+ikichik/POSV_N +p+2 
+nku/POSV_N +p+3; 
+# En vue des combinaisons ultérieures nous grouppons ces suffixes possesifs en deux : ceux qui se terminant en voyelle et consonnes
+# excepté pour la première personne singulier et le reste ainsi :
+iki/POSV_v_N +s+2 
+iku/POSV_v_N +PEX+1 
+nku/POSV_v_N +p+3_N; # le mot se termine en voyelle et le suff se termina en voyelle
+i/POSV_c_N +s+1 
+n/POSV_c_N +s+3
+nchik/POSV_c_N +PIN+1
+ikichik/POSV_c_N +p+2_N; # le mot se termine en voyelle mais le suff se termina en consonne
+nii/POSC_N +s+1 
+niiki/POSC_N +s+2 
+nin/POSC_N +s+3 
+ninchik/POSC_N +PIN+1 
+niiku/POSC_N +PEX+1
+niikichik/POSC_N +p+2
+ninku/POS_N C+p+3;   
+# En vue des combinaisons ultérieures nous grouppons ces suffixes possesifs en deux : ceux qui se 
+# terminant en voyelle excepté pour la première personne singulier 
+niiki/POSC_v_N +s+2
+niiku/POSC_v_N +PEX+1 
+ninku/POSC_v_N +p+3; # le mot se termine en consonne mais le suffixe se termina en voyelle
+nii/POSC_c_N +s+1 
+nin/POSC_c_N +s+3
+ninchik/POSC_c_N +PIN+1 
+niikichik/POSC_c_N +p+2; # le mot se termine en consonne et le suffixe se termina en consonne
+#  quand le verbe nominalisé se termina en consonne en ai ui ii au
+puni/ABS_N;  # ABS l'absolut mikunkipuni tu mange c’est certain	
+pura/ITV_N; # ITV interactivité « entre sujets de même d'un ensemble » warmipura entre femmes
+qa/THE_N; # thematisseur pour les verbes nominalisés verbes adj pronoms concernant « alors que »  (mais, par contre) wasi => wasiqa  alors que la maison, spécificateur,et  contrastif pour les verbes nominalisés  wasija qesperunña la maison est déjà terminée
+ja/THE_N; # thematisseur pour les verbes nominalisés verbes adj pronoms concernant « alors que »  (mais, par contre) wasi => wasiqa  alors que la maison, spécificateur,et  contrastif pour les verbes nominalisés  wasija qesperunña la maison est déjà terminée 
+qina/CMP_N; # semblable, resemble comparatif pour les verbes nominalisés et pronoms ñoqa => ñoqaqina semblable à moi ;  wasi => wasiqina resemble la maison
+hina/CMP_N ; # semblable, resemble comparatif pour les verbes nominalisés et pronoms ñoqa => ñoqaqina semblable à moi ;  wasi => wasiqina resemble la maison
+jina/CMP _N; # semblable, resemble comparatif pour les verbes nominalisés et pronoms ñoqa => ñoqaqina semblable à moi ;  wasi => wasiqina resemble la maison
+rayku/CAU_N; # à cause de, en raison de,  en considération de, causatif pour les verbes nominalisés et pronoms ñoqa 
+raj/PRI_N; # priorite mikuniraq d'abord je mange ; wasi => wasiraq d'abord la maison
+raq/PRI_N; # priorite mikuniraq d'abord je mange ; wasi => wasiraq d'abord la maison
+ri/TIN_N; # thématisateur de mise en question ; associatif « et »  wasiri mauka  et la maison et vieille, warmari ? et le jeune ?
+sapa/AUM_N; # abondance,  augmentatif, poséder plein de,  wasisapa posédant plein de maisons
+s/ESP_N; # SISVO especulatif voyel wasis
+si/ESP_N; # SISCO especulatif consonne atoqsi 
+su/SPP; #superlatif, oposé à -cha, wasisu maison inmense 
+ta/ACC_N; # accustf TA pour les verbes nominalisés et pronoms kausai => kausaita  rimai => rimaita le discours
+taj/CON_N |taq/CON_N; # Constrastif
+wan/INS_N; # avec, ensenble, accompagne de. Pour les verbes nominalisés et pronoms ñoqa => ñoqawan  ensemble avec moi;   wasi => wasiwan avec la maison
+i!/IVOC_N; # exclamation vocative taytai! oh mon père! mamai! oh ma mère! pour les verbes nominalisés se terminant en voyelle
+nii!/IVOC_N; # exclamation vocative atoqnii! oh mon renard!  pour les verbes nominalisés se terminant en consonne
+ya!/IVOC_N; # exclamation de surprise kuyaiya! ah l’amour !; kausaiya ! ah la vie ! 
+yá/CERT_N; # kausaiyá  c’est certain que c’est la vie, evidentiel kausaiyá (bien sûr que) c'est la vie
+yupa/POND_N; # POND comparateur aussi valable que, autant que, de la même valeur que, à la place de,  kuyaiyupa aussi valable que l'amour (à la place de l'amour), rimaiyupa de la même valeur que le discours
+yuq/PSS1_N;  # PSS1 possesseur de ce indiqué par le verbe nominalisé    rimai => rimaiyuq
+yoq/PSS1_N;  # PSS1 possesseur de ce indiqué par le verbe nominalisé    rimai => rimaiyuq
+yuj/PSS1_N;  # PSS1 possesseur de ce indiqué par le verbe nominalisé    rimai => rimaiyuq
+yoj/PSS1_N;  # PSS1 possesseur de ce indiqué par le verbe nominalisé    rimai => rimaiyuq

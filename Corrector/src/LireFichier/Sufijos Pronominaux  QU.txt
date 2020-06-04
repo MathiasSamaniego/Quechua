@@ -1,0 +1,82 @@
+# SUF_PRO . dictionnaire de suffixes pronominaux du QU Créé par M. Duran mars 2012
+ch/DUB_PRO ;  #  VS1_ch : « c’est probablement DET N »VS2_ch : « il paraît que c’est Det N »VS3_ch : « il possible que c’est Det N »
+chá /DUB_PRO; # VS1_ch : « c’est probablement DET N »VS2_ch : « il paraît que c’est Det N »VS3_ch : « il possible que c’est Det N »
+cha/DIM_PRO;  # VS1_cha : « petit(te)  N»VS2_cha : « mignon(e)  N»
+chik/DED_PRO;  # VS1_chik = « ça doit être Det N »VS2_chik = « on supposeque c’est Det N »VS3_chik : « me résigne à croire que c’est Det N »
+chiki/DED_PRO; # VS1_chiki = « ça doit être Det N »VS2_chiki = « on supposeque c’est Det N »VS3_chiki = « me résigne à croire que c’est Det N »
+chu?/ITG_PRO; # VS_chui : « est-ce-que c’est N ? »
+chu/NEG_PRO; # VS_chu : “c’est ne pasN”
+p/GEN_PRO; # VS1_gep : « de N »VS2_gep : « appartient N »
+pa/GEN_PRO; # VS1_gepa : « de N »VS2_gepa : « appartient N »
+hina/CMP_PRO; # VS1_hina : « semblable à N »VS1_hina : « pareil que  N »VS2_hina : « comme N »VS3_hina : « ressemble à »
+qina/CMP_PRO; # VS1_hina : « semblable à N »VS1_hina : « pareil que  N »VS2_hina : « comme N »VS3_hina : « ressemble à »
+jina/CMP_PRO; # VS1_hina : « semblable à N »VS1_hina : « pareil que  N »VS2_hina : « comme N »VS3_hina : « ressemble à »
+kama/LIM_PRO; # VS1_kama : « jusqu’à le limite espace»VS2_kama : « jusqu’à le limite temps»VS3_kama : « jusqu’à un objectif »
+kuna/PLU_PRO; # VS_kuna : « N au pluriel »
+lla/ISO_PRO; # VS1_lla : « N seul »VS2_lla : « restrictif à N»VS3_lla : « seulement N »
+má/CTR_PRO; # VS1_lla : « mais c’est certainement DET N »VS2_lla : «c’est  sans doute N »VS3_lla : « neanmoins c’est N »
+man/DIR_PRO; # VS1_man : « en direction de N »VS2_man : « vers N »VS3_man : « ressemble à N»VS4_man : « aller ayant pour objectif N »
+manta/ORIG_PRO; # VS1_manta : « en partant de lieux N »VS2_manta : « en direction de (temps) Date »VS3_manta : « fait en N »VS4_manta : « de, du, depuis N »VS5_manta : « concernant N »VS6_manta : « parler de N »
+m/ASS_PRO; # VSP : « confirmé que c’est N »VS1_m : « confirmé que c’est N »VS2_m : « on certifie que c’est N »VS3_m : « c’est précisément N »
+mi/ASS_PRO; # VS1_mi : « confirmé que c’est N »VS2_mi : « on certifie que c’est N »VS3_mi : « c’est précisément N »
+naj/AUS_PRO; # VS_naq = « abssence de N »
+naq/AUS_PRO; # VS_naq = « abssence de N »
+nnaj/AUS_PRO; # VS_naq = « abssence de N »
+nnaq/AUS_PRO; # VS_naq = « abssence de N »
+nka/CAN_PRO; # VS1_nka = « quantité N à quantité N»VS2_nka = « quantité N par quantité N»VS3_nka = « de à quantité N»
+ninka/CAN_PRO; # VS1_nka = « quantité N à quantité N»VS2_nka = « quantité N par quantité N»VS3_nka = « de à quantité N»
+nta/TRN_PRO; # VS1_nta = « autour N»VS2_nta = « le long de N»VS3_nta = « à proximité de N»
+ninta/TRN_PRO; # VS1_ninta = « autour N»VS2_ninta = « le long de N»VS3_ninta = « à proximité de N»
+ñinta/TRN_PRO; # VS1_ninta = « autour N»VS2_ninta = « le long de N»VS3_ninta = « à proximité de N»
+ntin/TOT_PRO; # VS_ntin : “ incluant N”
+nintin/TOT_PRO; # VS_nintin : “ incluant N”
+niq/APX_PRO; # VS_niq : « à proximité de N »
+ñiq/APX_PRO; # VS_niq : « à proximité de N »
+ñeq/APX_PRO; # VS_niq : « à proximité de N »
+ñij/APX_PRO; # VS_niq : « à proximité de N »
+neq/APX_PRO; # VS_niq : « à proximité de N »
+nej/APX_PRO; # VS_niq : « à proximité de N »
+niraq/ASI_PRO; # VS_niraq : « similaire à N »
+niraj/ASI_PRO; # VS_niraq : « similaire à N »
+ñiraq/ASI_PRO; # VS_niraq : « similaire à N »
+nirai/ASI_PRO; # VS_niraq : « similaire à N »
+ñirai/ASI_PRO; # VS_niraq : « similaire à N »
+ña/TRM_PRO; # VS1_ña : « terminé N »VS2_ña : « accompli N »VS3_ña : « c’est déjà N »
+paj/BEN_PRO; # VS1_paq : “pour N”VS2_paq : “au bénéfice de N”
+paq/BEN_PRO; # VS1_paq : “pour N”VS2_paq : “au bénéfice de N”
+pas/INC_PRO; # VS1_pas : « N aussi »VS2_pas : « en plus N »VS3_pas : « y compris N»VS4_pas : « N inclus»
+pi/LOC_PRO; # VS1_pi : « à N »VS2_pi : « en  N »VS3_pi : « dans N »VS4_pi : « dedans N »VS5_pi : « sur N »
+i/POSV_PRO +s+1
+iki/POSV_PRO +s+2 
+n/POSV_PRO +s+3
+nchik/POSV_PRO +PIN+1 
+iku/POSV_PRO +PEX+1  
+ikichik/ POSC_PRO +p+2 
+nku/POSV_PRO +p+3;« VS_posv »
+nii/POSC_PRO +s+1 
+niiki/POSC_PRO +s+2 
+nin/POSC_PRO +s+3 
+ninchik/POSC_PRO +PIN+1
+niiku/POSC_PRO +PEX+1 
+niikichik/POSC_PRO +p+2 
+ninku/POSC_PRO +p+3;« VS_posc »
+puni/CAT_PRO; # VS1_puni : « sans hésitation  c’est N »VS2_puni : « de toute façon c’est N »VS3_puni : « c’est vraiment N »VS1_puni : « on est certain que c’est N »
+pura/ITV_PRO; # VS_pura : « entre semblables à N”
+qa/THE_PRO; # VS1_qa: “on precise que N”VS2_qa: “alors que N”VS3_qa: “ mais  N”VS4_qa: “ par contre N”VS5_qa: “ alors N”VS6_qa: “ dans ce cas là c’est N”
+ja/THE_PRO; # VS1_qa: “on precise que N”VS2_qa: “alors que N”VS3_qa: “ mais  N”VS4_qa: “ par contre N”VS5_qa: “ alors N”VS6_qa: “ dans ce cas là c’est N”
+rayku/CAU_PRO; # VS1_rayku : « à cause de N »VS2_rayku : « pour  N »VS3_rayku : « tenant compte de N »VS4_rayku : « à la place de N »VS5_rayku : « en raison de N »VS6_rayku : « en considérant  N »
+raq/PRI_PRO; # SV1_raq : « d’abord N »SV2_raq : « pas encore »SV3_raq : « une inquiétude »SV4_raq : « un doute »
+raj/PRI_PRO; # SV1_raq : « d’abord N »SV2_raq : « pas encore »SV3_raq : « une inquiétude »SV4_raq : « un doute »
+ri/TMQ_PRO; # SV_ri : « et N ? »
+s/ESP_PRO; # SV1_s: “on dit que c’est N »SV2_s: “on dit que c’est N”
+si/ESP_PRO; # SV1_si: “on dit que c’est N »SV2_si: “on dit que c’est N”
+sapa/AUM_PRO; # SV1_sapa : « abondance de N »SV2_sapa : « un(e) grand(e) N »SV3_sapa : « possede plein de N »
+su/SPP_PRO; # SV1_su : « geant N »SV2_su : « inmense N »
+ta/ACC_PRO; # VS1_ta : « la le N » VS2_ta : « à  N »
+qta/ACC_PRO; # VS1_ta : « la le N » VS2_ta : « à  N »
+taj/CON_PRO; # VS1_taq : « mais c’est N »VS2_taq : « pourtant  c’est N » VS3_taq : « tandis que  N »VS4_taq : « par contre N »VS5_taq : « alors que N »
+taq/CON_PRO; # VS1_taq : « mais c’est N »VS2_taq : « pourtant  c’est N » VS3_taq : « tandis que  N »VS4_taq : « par contre N »VS5_taq : « alors que N »
+wan/ACO_PRO; # VSP : « accompagné de N »VS1_wan : « avec N »VS2_wan :«conjointement  avec N »VS3_wan : « accompagné de N »VS4_wan : « à…et à  N »VS5_wan : « et…aussi à N »
+nii/IVOC_PRO; # VS_nii :  “oh! (POS) N”           
+yá/CERT_PRO; # VS1_yá “ évidement  c’est N”VS2_yá “ c’est N certainement ”VS3_yá “ c’est sûr que c’est N”VS4_yá “ bien sûr que c’est N”
+yupa/POND_PRO; # VS1_yupa “ vaut autant que N”VS2_yupa “ remplace le (la) N”

@@ -1,0 +1,82 @@
+# SUF_ADV . dictionnaire de suffixes Adverbiaux du QU Créé par M. Duran mars 2012
+ch/DUB_ADV ;  #  VS1_ch : « c’est probablement ADV »VS2_ch : « il paraît que c’est ADV »VS3_ch : « il possible que c’est ADV »
+chá /DUB_ADV; # VS1_ch : « c’est probablement ADV »VS2_ch : « il paraît que c’est ADV »VS3_ch : « il possible que c’est ADV »
+cha/DIM_ADV;  # VS1_cha : « petit(te)  ADV»VS2_cha : « mignon(e)  ADV»
+chik/DED_ADV;  # VS1_chik = « ça doit être ADV »VS2_chik = « on supposeque c’est ADV »VS3_chik : « me résigne à croire que c’est ADV »
+chiki/DED_ADV; # VS1_chiki = « ça doit être ADV »VS2_chiki = « on supposeque c’est ADV »VS3_chiki = « me résigne à croire que c’est ADV »
+chu?/ITG_ADV; # VS_chui : « est-ce-que c’est ADV ? »
+chu/NEG_ADV; # VS_chu : “c’est ADVe pasN”
+p/GEN_ADV; # VS1_gep : « de ADV »VS2_gep : « appartient ADV »
+pa/GEN_ADV; # VS1_gepa : « de ADV »VS2_gepa : « appartient ADV »
+hina/CMP_ADV; # VS1_hina : « semblable à ADV »VS1_hina : « pareil que  ADV »VS2_hina : « comme ADV »VS3_hina : « ressemble à »
+qina/CMP_ADV; # VS1_hina : « semblable à ADV »VS1_hina : « pareil que  ADV »VS2_hina : « comme ADV »VS3_hina : « ressemble à »
+jina/CMP_ADV; # VS1_hina : « semblable à ADV »VS1_hina : « pareil que  ADV »VS2_hina : « comme ADV »VS3_hina : « ressemble à »
+kama/LIM_ADV; # VS1_kama : « jusqu’à le limite espace»VS2_kama : « jusqu’à le limite temps»VS3_kama : « jusqu’à un objectif »
+kuna/PLU_ADV; # VS_kuna : « ADV au pluriel »
+lla/ISO_ADV; # VS1_lla : « ADV seul »VS2_lla : « restrictif à ADV»VS3_lla : « seulement ADV »
+má/CTR_ADV; # VS1_lla : « mais c’est certainement ADV »VS2_lla : «c’est  sans doute ADV »VS3_lla : « ADVeanmoins c’est ADV »
+man/DIR_ADV; # VS1_man : « en direction de ADV »VS2_man : « vers ADV »VS3_man : « ressemble à ADV»VS4_man : « aller ayant pour objectif ADV »
+manta/ORIG_ADV; # VS1_manta : « en partant de lieux ADV »VS2_manta : « en direction de (temps) Date »VS3_manta : « fait en ADV »VS4_manta : « de, du, depuis ADV »VS5_manta : « concernant ADV »VS6_manta : « parler de ADV »
+m/ASS_ADV; # VSP : « confirmé que c’est ADV »VS1_m : « confirmé que c’est ADV »VS2_m : « on certifie que c’est ADV »VS3_m : « c’est précisément ADV »
+mi/ASS_ADV; # VS1_mi : « confirmé que c’est ADV »VS2_mi : « on certifie que c’est ADV »VS3_mi : « c’est précisément ADV »
+naj/AUS_ADV; # VS_naq = « abssence de ADV »
+naq/AUS_ADV; # VS_naq = « abssence de ADV »
+nnaj/AUS_ADV; # VS_naq = « abssence de ADV »
+nnaq/AUS_ADV; # VS_naq = « abssence de ADV »
+nka/CAN_ADV; # VS1_nka = « quantité ADV à quantité ADV»VS2_nka = « quantité ADV par quantité ADV»VS3_nka = « de à quantité ADV»
+ninka/CAN_ADV; # VS1_nka = « quantité ADV à quantité ADV»VS2_nka = « quantité ADV par quantité ADV»VS3_nka = « de à quantité ADV»
+nta/TRN_ADV; # VS1_nta = « autour ADV»VS2_nta = « le long de ADV»VS3_nta = « à proximité de ADV»
+ninta/TRN_ADV; # VS1_ninta = « autour ADV»VS2_ninta = « le long de ADV»VS3_ninta = « à proximité de ADV»
+ñinta/TRN_ADV; # VS1_ninta = « autour ADV»VS2_ninta = « le long de ADV»VS3_ninta = « à proximité de ADV»
+ntin/TOT_ADV; # VS_ntin : “ incluant ADV”
+nintin/TOT_ADV; # VS_nintin : “ incluant ADV”
+niq/APX_ADV; # VS_niq : « à proximité de ADV »
+ñiq/APX_ADV; # VS_niq : « à proximité de ADV »
+ñeq/APX_ADV; # VS_niq : « à proximité de ADV »
+ñij/APX_ADV; # VS_niq : « à proximité de ADV »
+neq/APX_ADV; # VS_niq : « à proximité de ADV »
+nej/APX_ADV; # VS_niq : « à proximité de ADV »
+niraq/ASI_ADV; # VS_niraq : « similaire à ADV »
+niraj/ASI_ADV; # VS_niraq : « similaire à ADV »
+ñiraq/ASI_ADV; # VS_niraq : « similaire à ADV »
+nirai/ASI_ADV; # VS_niraq : « similaire à ADV »
+ñirai/ASI_ADV; # VS_niraq : « similaire à ADV »
+ña/TRM_ADV; # VS1_ña : « terminé ADV »VS2_ña : « accompli ADV »VS3_ña : « c’est déjà ADV »
+paj/BEN_ADV; # VS1_paq : “pour ADV”VS2_paq : “au bénéfice de ADV”
+paq/BEN_ADV; # VS1_paq : “pour ADV”VS2_paq : “au bénéfice de ADV”
+pas/INC_ADV; # VS1_pas : « ADV aussi »VS2_pas : « en plus ADV »VS3_pas : « y compris ADV»VS4_pas : « ADV inclus»
+pi/LOC_ADV; # VS1_pi : « à ADV »VS2_pi : « en  ADV »VS3_pi : « dans ADV »VS4_pi : « dedans ADV »VS5_pi : « sur ADV »
+i/POSV_ADV +s+1
+iki/POSV_ADV +s+2 
+n/POSV_ADV +s+3
+nchik/POSV_ADV +PIN+1 
+iku/POSV_ADV +PEX+1  
+ikichik/ POSC_ADV +p+2 
+nku/POSV_ADV +p+3;« VS_posv »
+nii/POSC_ADV +s+1 
+niiki/POSC_ADV +s+2 
+nin/POSC_ADV +s+3 
+ninchik/POSC_ADV +PIN+1
+niiku/POSC_ADV +PEX+1 
+niikichik/POSC_ADV +p+2 
+ninku/POSC_ADV +p+3;« VS_posc »
+puni/CAT_ADV; # VS1_puni : « sans hésitation  c’est ADV »VS2_puni : « de toute façon c’est ADV »VS3_puni : « c’est vraiment ADV »VS1_puni : « on est certain que c’est ADV »
+pura/ITV_ADV; # VS_pura : « entre semblables à ADV”
+qa/THE_ADV; # VS1_qa: “on precise que ADV”VS2_qa: “alors que ADV”VS3_qa: “ mais  ADV”VS4_qa: “ par contre ADV”VS5_qa: “ alors ADV”VS6_qa: “ dans ce cas là c’est ADV”
+ja/THE_ADV; # VS1_qa: “on precise que ADV”VS2_qa: “alors que ADV”VS3_qa: “ mais  ADV”VS4_qa: “ par contre ADV”VS5_qa: “ alors ADV”VS6_qa: “ dans ce cas là c’est ADV”
+rayku/CAU_ADV; # VS1_rayku : « à cause de ADV »VS2_rayku : « pour  ADV »VS3_rayku : « tenant compte de ADV »VS4_rayku : « à la place de ADV »VS5_rayku : « en raison de ADV »VS6_rayku : « en considérant  ADV »
+raq/PRI_ADV; # SV1_raq : « d’abord ADV »SV2_raq : « pas encore »SV3_raq : « une inquiétude »SV4_raq : « un doute »
+raj/PRI_ADV; # SV1_raq : « d’abord ADV »SV2_raq : « pas encore »SV3_raq : « une inquiétude »SV4_raq : « un doute »
+ri/TMQ_ADV; # SV_ri : « et ADV ? »
+s/ESP_ADV; # SV1_s: “on dit que c’est ADV »SV2_s: “on dit que c’est ADV”
+si/ESP_ADV; # SV1_si: “on dit que c’est ADV »SV2_si: “on dit que c’est ADV”
+sapa/AUM_ADV; # SV1_sapa : « abondance de ADV »SV2_sapa : « un(e) grand(e) ADV »SV3_sapa : « possede plein de ADV »
+su/SPP_ADV; # SV1_su : « geant ADV »SV2_su : « inmense ADV »
+ta/ACC_ADV; # VS1_ta : « la le ADV » VS2_ta : « à  ADV »
+qta/ACC_ADV; # VS1_ta : « la le ADV » VS2_ta : « à  ADV »
+taj/CON_ADV; # VS1_taq : « mais c’est ADV »VS2_taq : « pourtant  c’est ADV » VS3_taq : « tandis que  ADV »VS4_taq : « par contre ADV »VS5_taq : « alors que ADV »
+taq/CON_ADV; # VS1_taq : « mais c’est ADV »VS2_taq : « pourtant  c’est ADV » VS3_taq : « tandis que  ADV »VS4_taq : « par contre ADV »VS5_taq : « alors que ADV »
+wan/ACO_ADV; # VSP : « accompagné de ADV »VS1_wan : « avec ADV »VS2_wan :«conjointement  avec ADV »VS3_wan : « accompagné de ADV »VS4_wan : « à…et à  ADV »VS5_wan : « et…aussi à ADV »
+nii/IVOC_ADV; # VS_nii :  “oh! (POS) ADV”           
+yá/CERT_ADV; # VS1_yá “ évidement  c’est ADV”VS2_yá “ c’est ADV certainement ”VS3_yá “ c’est sûr que c’est ADV”VS4_yá “ bien sûr que c’est ADV”
+yupa/POND_ADV; # VS1_yupa “ vaut autant que ADV”VS2_yupa “ remplace le (la) ADV”

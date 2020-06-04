@@ -1,0 +1,70 @@
+#Suffixes inter posiciónenles SIP Creado por M. Duran marzo 2012
+chaku/DIM_SIP; # DIM de façon ridicule, diminuée, dépréciée, dévalué
+chi/FACT_SIP; # FACT factitive, faire faire.
+chka/PROG_SIP; # PROG  progressif 
+ymana/INT_SIP; # INTerioriser intensement, se remplir de,faire qqch intensement
+ysi/COLL_SIP; # COLL Collaboration
+ykacha/DISP_SIP; #  DISPersatif  
+ykachi/POLI_SIP; # POLI/ le sujet_ POLI_1poliment_POLI_2_concrètement_POLI_3_précisément_ POLI_4_courtoisement
+ykamu/PREAT_SIP; # Prévision at attention avec mouvement dirigé centripete
+ykapu/SOIN3_SIP; # SOIN3 
+ykari/PONC_SIP; #  PONC ponctuelle
+yku/COURT_SIP; # COURToisie 
+ymana/INT_SIP; # INTerioriser intensement, se remplir de,faire qqch intensement
+ysi/COLL_SIP; # Collaboration
+ymana/INT_SIP; # INTerioriser intensement, se remplir de,faire qqch intensement
+kacha/ARO_SIP; # ARO action répété orienté 
+kamu/AOL_SIP; # action à réaliser
+kapu/RAS_SIP; # RAS retour au sujet
+ku/AUBE_SIP; # auto bénéfique
+lla/POL1_SIP; # POL1 Politesse 1, gentillese, empathie 
+mu/ACENT_SIP; # ACENT actance centripète
+mpu/INSP;  #  INSP  inespéré 
+naya/ENV;  # ENV envie de  
+pa/PEAU_SIP; # peaufiner
+paya/FREQ_SIP; # FREQ répétition fréquente 
+pu/APT_SIP; # APT action pour ou au d'un tiers
+ra/PASS_SIP; # Passé simple
+raya/DUR_SIP; # DURatif 
+ri/DYN_SIP; # DYNamique 
+rpari/ASUR_SIP; # ASUR action surprise
+rqu/PAPT_SIP; # PAPT Passé accompli en peu de temps 
+ru/PRES; #PRES pressant 
+tamu/AEP_SIP; #  AEP  l'action du verbe se fait en passant
+### les formes TIM temps indefini modifié
+na/OBL_SIP; # OBL obligation
+pti/GER2_SIP; # GER2 gérondif VER PTI_TIM2  
+rqa/PPI_SIP; # prétérite parfait indéfinie 
+spa/GER_SIP; # simultanéité gérondif 
+sqa/PPA;  # PP participe passif 
+sqa/SQAP_SIP; #  SQAP participe par sqa
+stin/GERS_SIP; #GER_ le gérondif
+################# 
+## pour les Postposé dimension 1
+###### 200514### suffixes pour les verbes sustantivés ( se terminant en i)
+ch/DV_V_SPP; # DV_V dubitatif verbal, fin voyelle mikunkich quizas comeras
+chá/DV_C_SPP; # DV_V dubitatif verbal pour les fin en consonnes
+chik/QCERT_SPP; # QCERT certitude avec résignation mikunkichiki, il paraît certain que tu mangera
+chiki/QCERT_SPP; # QCERT certitude avec résignation mikunkichiki, il paraît certain que tu mangera
+chu?/ITGV_SPP; # ITGV mikunichu? je m'interroge si je mange jamunjachu? viendra-t-l?
+chu/NEG_SPP; # mikunichu je ne mange pas
+chusina/APPV_SPP; # mikunkichusjina il semble que tu va manger
+chusjina/APPV_SPP; # mikunkichusjina il semble que tu va manger
+chushina/APPV_SPP; # mikunkichusjina il semble que tu va manger
+má/CONV_SPP; # CONV contradicteur mikunimá mais je conffirme que je mange o que j'ai mangé
+man/C_SPP;  # DES desideratif mikuiMAN j'aimerai manger on decline avec le present modifié 1
+m/ASSV_SPP; # ASS assertif pour les conjugaisons fini en voyel mikunim oui, je mange
+mi/ASSV_SPP; #assertif pour les conjugaisons fini en voyel mikunim oui, je mange
+ña/TRMV_SPP; # TRMV pour le verbes l'accompli ripunña il est (déjà) parti
+pas/INCV_SPP; #INCV inclus pour l'action du verbe  concernant mikuni => mikunipas, tusunipas
+puni/CATV_SPP;  # CATV l'absolut mikunkipuni tu mange absolument quoi qu'in en soit
+ja/THEV_SPP; #contrastif pour les verbes  mikunkija alors que tu mange, mais tu mange
+qa/THEV_SPP; #contrastif pour les verbes  mikunkija alors que tu mange, mais tu mange
+raj/PRIV_SPP; # priorite de l'action mikuniraq d'abord je mange
+raq/PRIV_SPP; # priorite de l'action mikuniraq d'abord je mange
+s/CITV_SPP; # SV especulatif verbal voyel mikunkis
+si/CITV_SPP; # SIV especulatif verbal consonne mikunsi
+taj/CONV2_SPP; # contrastif2, pour contraster ou oposé mikunitaq mais j'ai bien mangé takinkitaq
+taq/CONV2_SPP; # contrastif2, pour contraster ou oposé mikunitaq mais j'ai bien mangé takinkitaq
+ya!/EVOC_SPP; # évocation wikuniya! ah oui, j'ai mangé
+yá/CERTV_SPP; # evidentiel afirmation categorique wikuniya! ah oui, j'ai mangé
