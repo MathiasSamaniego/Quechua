@@ -75,7 +75,7 @@ public class RemplirBDD {
 					Connection c = null;
 					c = DriverManager.getConnection(url);
 					Statement s = c.createStatement();
-					ResultSet st = s.executeQuery("SELECT * FROM A;");
+					ResultSet st = s.executeQuery("SELECT * FROM " + string + " ;");
 					boolean b = false;
 					while (st.next()) {
 						if (st.getString(2).equals(chaine) && st.getString(3).equals(type)) {
