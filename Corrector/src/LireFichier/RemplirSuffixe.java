@@ -5,8 +5,10 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+import java.sql.Statement;
 
 public class RemplirSuffixe {
 	
@@ -39,9 +41,9 @@ public class RemplirSuffixe {
 	            		Class.forName("org.sqlite.JDBC"); // loaded the driver (use properties)
 	            		String url = "jdbc:sqlite:C:\\Users\\alain\\OneDrive\\Documents/CorrectorQuechua.db";
 	            		//String url = "jdbc:sqlite://127.0.0.1:5432/DataBaseQuechua.db";
-	            		java.sql.Connection c = null;
+	            		Connection c = null;
 	            		c = DriverManager.getConnection(url);
-	    				java.sql.Statement s =  c.createStatement();
+	    				Statement s =  c.createStatement();
 	    					System.out.println("INSERT INTO "+ table +"(suffixe) VALUES('" + chaine +");");
     						s.executeUpdate("INSERT INTO " + table +"(suffixe) VALUES('" + chaine + "');");
 	            }
@@ -54,12 +56,12 @@ public class RemplirSuffixe {
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException, SQLException {
 		RemplirSuffixe suffixe = new RemplirSuffixe();
-		suffixe.RemplirSuffixes("C:\\Users\\alain\\git\\Quechua\\Corrector\\src\\LireFichier\\Sufijos Adjectivaux  QU.txt","Suffixes_Adjectivaux");
-		suffixe.RemplirSuffixes("C:\\Users\\alain\\git\\Quechua\\Corrector\\src\\LireFichier\\Sufijos Adverbiaux  QU.txt","Suffixes_Averbiaux");
-		suffixe.RemplirSuffixes("C:\\Users\\alain\\git\\Quechua\\Corrector\\src\\LireFichier\\Sufijos Nominaux  QU.txt","Suffixes_Nominaux");
-		suffixe.RemplirSuffixes("C:\\Users\\alain\\git\\Quechua\\Corrector\\src\\LireFichier\\Sufijos pos_posés SPP.txt","Suffixes_PosPoses");
-		suffixe.RemplirSuffixes("C:\\Users\\alain\\git\\Quechua\\Corrector\\src\\LireFichier\\Sufijos Pronominaux  QU.txt","Suffixes_Pronomiaux");
-		suffixe.RemplirSuffixes("C:\\Users\\alain\\git\\Quechua\\Corrector\\src\\LireFichier\\Sufijos Verbaux inter-position QU.txt","Suffixes_VerbauxInterPosition");
+		suffixe.RemplirSuffixes("ressources/dictionnaire/Sufijos Adjectivaux  QU.txt","Suffixes_Adjectivaux");
+		suffixe.RemplirSuffixes("ressources/dictionnaire/Sufijos Adverbiaux  QU.txt","Suffixes_Averbiaux");
+		suffixe.RemplirSuffixes("ressources/dictionnaire/Sufijos Nominaux  QU.txt","Suffixes_Nominaux");
+		suffixe.RemplirSuffixes("ressources/dictionnaire/Sufijos pos_posés SPP.txt","Suffixes_PosPoses");
+		suffixe.RemplirSuffixes("ressources/dictionnaire/Sufijos Pronominaux  QU.txt","Suffixes_Pronomiaux");
+		suffixe.RemplirSuffixes("ressources/dictionnaire/Sufijos Verbaux inter-position QU.txt","Suffixes_VerbauxInterPosition");
 
 	}
 }

@@ -27,7 +27,7 @@ public class RemplirBDD {
 		int i = 0;
 		int j = 0;
 		int k = 0;
-		InputStream ips = new FileInputStream("src/LireFichier/Dictionary  générale FR_QU pour Soni_syllabes.txt");
+		InputStream ips = new FileInputStream("ressources/dictionnaire/Dictionary  générale FR_QU pour Soni_syllabes.txt");
 		InputStreamReader in = new InputStreamReader(ips);
 		BufferedReader br = new BufferedReader(in);
 		String ligne;
