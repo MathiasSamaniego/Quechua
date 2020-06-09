@@ -9,4 +9,19 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
+  
+  <servlet>
+  <servlet-name>InterfaceHttpServelt</servlet-name>
+  <servlet-class>servlets.InterfaceHttpServelt</servlet-class>
+  <init-param>
+  <param-name>auteur</param-name>
+  <param-value>Alain</param-value>
+  </init-param>
+  <load-on-startup>1</load-on-startup>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>InterfaceHttpServelt</servlet-name>
+  <url-pattern>/PageCorrection</url-pattern>
+  </servlet-mapping>
 </web-app>

@@ -1,7 +1,6 @@
 package servlets;
 
 import java.io.IOException;
-import java.io.PrintWriter;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -12,9 +11,14 @@ import Correcteur.Algo;
 
 public class InterfaceHttpServelt extends HttpServlet {
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -1590123697010812279L;
+
 	public void doGet( HttpServletRequest request, HttpServletResponse response ) throws ServletException, IOException{
 		Algo a = new Algo();
-		request.setAttribute( "test", a.getListCorrection() );
-		this.getServletContext().getRequestDispatcher( "/WEB-INF/Page.jsp" ).forward( request, response );
+        request.setAttribute( "test", a.getPhraseACorriger());
+        this.getServletContext().getRequestDispatcher( "/WEB-INF/PageCorrection.jsp" ).forward( request, response );
 	}
 }

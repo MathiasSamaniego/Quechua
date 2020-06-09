@@ -32,6 +32,7 @@ import ="Correcteur.Algo" %>
             liste = (ArrayList<String>) request.getAttribute("test");
             for ( int i=0; i<liste.size(); i++ ) 
                 out.println(liste.get(i));  */ 
+
             %>
         </p>
     </body>
