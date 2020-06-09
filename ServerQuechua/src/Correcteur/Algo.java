@@ -1,16 +1,15 @@
 package Correcteur;
 
-import java.util.ArrayList;
-
 public class Algo {
-	private ArrayList<String> listCorrection = new ArrayList<String>();
+	private String PhraseACorriger;
 	
-	public Algo() {
-		listCorrection.add("zegge");
-		listCorrection.add("gghe");
+	
+	
+	public String getPhraseACorriger() {
+		return PhraseACorriger;
 	}
 
-	public ArrayList<String> getListCorrection() {
-		return listCorrection;
+	public void setPhraseACorriger(String PhraseACorriger) {
+		this.PhraseACorriger = PhraseACorriger;
 	}
 }
