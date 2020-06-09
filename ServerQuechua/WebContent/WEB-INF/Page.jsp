@@ -1,4 +1,5 @@
-<%@page import="java.util.ArrayList"%>
+<%@page import="java.util.ArrayList"
+import ="Correcteur.Algo" %>
 <%@page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"
     %>
@@ -12,20 +13,25 @@
     <body>
     <center><h1>Correcteur Orthographique Quechua</h1></center>
         <center>
-        	<FORM action="/Corrector" method="post">
+        	<FORM action="">
         	<fieldset>    
         		<legend>Correction</legend>
-        		<TEXTAREA id="text" rows="5" cols="33"></TEXTAREA>
+        		<TEXTAREA id="text" name="text" rows="5" cols="33"></TEXTAREA>
         		<br><input type="submit" value="Corriger">
         	</fieldset>
         	</FORM>
         </center>
         <p>
             <%
-            ArrayList<String> liste = new  ArrayList<String>();
+            String s = request.getParameter("text");
+          	Algo a = new Algo();
+          	a.setPhraseCorrection(s);
+          	
+          	System.out.println(s);
+            /* ArrayList<String> liste = new  ArrayList<String>();
             liste = (ArrayList<String>) request.getAttribute("test");
             for ( int i=0; i<liste.size(); i++ ) 
-                out.println(liste.get(i));   
+                out.println(liste.get(i));  */ 
             %>
         </p>
     </body>
