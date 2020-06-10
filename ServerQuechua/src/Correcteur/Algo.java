@@ -15,10 +15,9 @@ public class Algo {
 	}
 	
 	/////Algorithme principal
-	public void Correction() throws ClassNotFoundException, SQLException {
+	public void Correction(String s) throws ClassNotFoundException, SQLException {
 		/////Recherche de la racine
-			boolean b = this.controller.racineExiste(PhraseACorriger);
-			System.out.println("ALLO");
+			boolean b = this.controller.racineExiste(s);
 	}
 	
 	public String getPhraseACorriger() {

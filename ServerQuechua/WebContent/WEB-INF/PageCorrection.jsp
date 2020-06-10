@@ -25,8 +25,8 @@ import ="Correcteur.Algo" %>
             <%
             String s = request.getParameter("text");
           	Algo a = new Algo();
-          	a.setPhraseACorriger(s);
-          	a.Correction();
+          	a.setPhraseACorriger("salut");
+          	a.Correction("salut");
           	/*System.out.println(s);
              ArrayList<String> liste = new  ArrayList<String>();
             liste = (ArrayList<String>) request.getAttribute("test");
