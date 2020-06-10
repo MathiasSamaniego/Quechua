@@ -70,7 +70,7 @@ public class Crud_Controller {
 		if(b) {/////S'il existe des motracine racine commencant par s1
 			
 			Class.forName("org.sqlite.JDBC");
-			String url = "jdbc:sqlite:C:\\Users\\alain\\OneDrive\\Documents/CorrectorQuechua.db";
+			String url = "jdbc:sqlite:C:\\\\Users\\\\alain\\\\OneDrive\\\\Documents/CorrectorQuechua.db";
 			Connection c = null;
 			c = DriverManager.getConnection(url);
 			Statement stmt = c.createStatement();

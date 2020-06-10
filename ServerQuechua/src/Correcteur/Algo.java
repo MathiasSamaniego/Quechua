@@ -17,6 +17,7 @@ public class Algo {
 	/////Algorithme principal
 	public void Correction(String s) throws ClassNotFoundException, SQLException {
 		/////Recherche de la racine
+			@SuppressWarnings("unused")
 			boolean b = this.controller.racineExiste(s);
 	}
 	
