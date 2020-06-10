@@ -24,11 +24,13 @@
         <p>
         	Récupération du bean :
         	<%
-        	beans.Alain notreBean = (beans.Alain) request.getAttribute("alain");
+        	
+        	
+        	///// beans.Alain notreBean = (beans.Alain) request.getAttribute("alain"); %>
         	out.println(notreBean.getPrenom());
         	out.println(notreBean.getNom());
         	
-        	%>
+        	--%>
         
         </p>
     </body>

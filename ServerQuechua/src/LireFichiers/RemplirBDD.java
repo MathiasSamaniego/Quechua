@@ -19,6 +19,32 @@ public class RemplirBDD {
 	private int nombredelignes = 0;
 	private ArrayList<String> list = new ArrayList<String>();
 
+	public RemplirBDD() {
+		this.list.add("a");
+		this.list.add("b");
+		this.list.add("c");
+		this.list.add("d");
+		this.list.add("e");
+		this.list.add("f");
+		this.list.add("h");
+		this.list.add("i");
+		this.list.add("j");
+		this.list.add("k");
+		this.list.add("l");
+		this.list.add("m");
+		this.list.add("n");
+		this.list.add("o");
+		this.list.add("p");
+		this.list.add("q");
+		this.list.add("r");
+		this.list.add("s");
+		this.list.add("t");
+		this.list.add("u");
+		this.list.add("v");
+		this.list.add("w");
+		this.list.add("y");
+		this.list.add("ñ");
+	}
 
 	// lecture du fichier texte
 	public void RemplirRacine(String string) throws IOException, ClassNotFoundException, SQLException {
@@ -70,7 +96,7 @@ public class RemplirBDD {
 					System.out.println(chaine + "     " + type);
 
 					Class.forName("org.sqlite.JDBC"); // loaded the driver (use properties)
-					String url = "jdbc:sqlite:C:\\Users\\mathi\\Documents\\StageQuechua/DataBaseQuechua.db";
+					String url = "jdbc:sqlite:C:\\\\Users\\\\alain\\\\OneDrive\\\\Documents/CorrectorQuechua.db";
 					// String url = "jdbc:sqlite://127.0.0.1:5432/DataBaseQuechua.db"; Connection
 					Connection c = null;
 					c = DriverManager.getConnection(url);
@@ -104,34 +130,11 @@ public class RemplirBDD {
 	}
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException, SQLException {
-		RemplirBDD remplirbdd = new RemplirBDD();
-		remplirbdd.list.add("a");
-		remplirbdd.list.add("b");
-		remplirbdd.list.add("c");
-		remplirbdd.list.add("d");
-		remplirbdd.list.add("e");
-		remplirbdd.list.add("f");
-		remplirbdd.list.add("h");
-		remplirbdd.list.add("i");
-		remplirbdd.list.add("j");
-		remplirbdd.list.add("k");
-		remplirbdd.list.add("l");
-		remplirbdd.list.add("m");
-		remplirbdd.list.add("n");
-		remplirbdd.list.add("o");
-		remplirbdd.list.add("p");
-		remplirbdd.list.add("q");
-		remplirbdd.list.add("r");
-		remplirbdd.list.add("s");
-		remplirbdd.list.add("t");
-		remplirbdd.list.add("u");
-		remplirbdd.list.add("v");
-		remplirbdd.list.add("w");
-		remplirbdd.list.add("y");
-		remplirbdd.list.add("ñ");
+		RemplirBDD remplir = new RemplirBDD();
+
 		
-		for(int i = 0; i< remplirbdd.list.size(); i++) {
-			remplirbdd.RemplirRacine(remplirbdd.list.get(i));
+		for(int i = 0; i< remplir.list.size(); i++) {
+			remplir.RemplirRacine(remplir.list.get(i));
 		}
 
 	}

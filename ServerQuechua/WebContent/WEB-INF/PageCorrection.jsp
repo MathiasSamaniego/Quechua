@@ -25,10 +25,10 @@ import ="Correcteur.Algo" %>
             <%
             String s = request.getParameter("text");
           	Algo a = new Algo();
-          	a.setPhraseCorrection(s);
-          	
-          	System.out.println(s);
-            /* ArrayList<String> liste = new  ArrayList<String>();
+          	a.setPhraseACorriger(s);
+          	a.Correction();
+          	/*System.out.println(s);
+             ArrayList<String> liste = new  ArrayList<String>();
             liste = (ArrayList<String>) request.getAttribute("test");
             for ( int i=0; i<liste.size(); i++ ) 
                 out.println(liste.get(i));  */ 

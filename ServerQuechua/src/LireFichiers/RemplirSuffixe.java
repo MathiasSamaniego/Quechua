@@ -39,7 +39,7 @@ public class RemplirSuffixe {
 	            	j++;
 	            		System.out.println(chaine);
 	            		Class.forName("org.sqlite.JDBC"); // loaded the driver (use properties)
-	            		String url = "jdbc:sqlite:C:\\Users\\mathi\\Documents\\StageQuechua/DataBaseQuechua.db";
+	            		String url = "jdbc:sqlite:C:\\\\Users\\\\alain\\\\OneDrive\\\\Documents/CorrectorQuechua.db";
 	            		//String url = "jdbc:sqlite://127.0.0.1:5432/DataBaseQuechua.db";
 	            		Connection c = null;
 	            		c = DriverManager.getConnection(url);
